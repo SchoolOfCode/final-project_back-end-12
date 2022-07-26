@@ -6,10 +6,10 @@ foodName DONE
 imageURL DONE
 description
 family 
-foodType
-usedAs
-month NEED CAPITALISING
-allergens
+foodType DONE WITH CAVEAT THIS WAS A NIGHTMARE
+usedAs DONE
+month DONE
+allergens DONE WITH CAVEAT THAT I DON'T KNOW ALL ALLERGENS, WILL WANT DOUBLE-CHECKING
 */
 
 /*
@@ -22,11 +22,11 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
-    foodType: "example",
+    family: "Rosaceae",
+    foodType: "Pome",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Apricot",
@@ -34,10 +34,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Drupe",
     usedAs: "Fruit",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Asparagus",
@@ -45,10 +45,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Stem",
     usedAs: "Vegetable",
     month: ["Jun", "Jul"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Aubergine",
@@ -56,10 +56,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Banana",
@@ -67,7 +67,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: [
       "Jan",
@@ -83,7 +83,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Basil",
@@ -91,10 +91,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Herb",
     usedAs: "Herb",
     month: ["Jul", "Aug"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Beef",
@@ -102,7 +102,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Meat",
     usedAs: "Meat",
     month: [
       "Jan",
@@ -118,7 +118,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Beetroot",
@@ -126,10 +126,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Blackberry",
@@ -137,10 +137,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Blackcurrants",
@@ -148,10 +148,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jun", "Jul"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Bramley Apple",
@@ -159,10 +159,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Pome",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Broadbean",
@@ -170,10 +170,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Legume",
     usedAs: "Vegetable",
     month: ["Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Broccoli",
@@ -181,10 +181,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Brussels Sprouts",
@@ -192,10 +192,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Cabbage",
@@ -203,7 +203,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: [
       "Jan",
@@ -219,7 +219,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Carrot",
@@ -227,10 +227,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Cauliflower",
@@ -238,10 +238,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Apr"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Cavolo Nero",
@@ -249,10 +249,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Jul", "Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Celeriac",
@@ -260,10 +260,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Apr", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "Celery",
   },
   {
     foodName: "Celery",
@@ -271,10 +271,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Stem",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Aug", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "Celery",
   },
   {
     foodName: "Cherry",
@@ -282,10 +282,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Chervil",
@@ -293,10 +293,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Herb",
     usedAs: "Herb",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Chestnut",
@@ -304,10 +304,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Nut",
     usedAs: "Nut",
     month: ["Jan", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "Nut",
   },
   {
     foodName: "Chicory",
@@ -315,10 +315,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Clementine",
@@ -326,10 +326,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Citrus",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Cod",
@@ -337,10 +337,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["Feb", "Mar", "Apr"],
-    allergens: "none",
+    allergens: "Fish",
   },
   {
     foodName: "Courgette",
@@ -348,10 +348,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Squash",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Courgette Flower",
@@ -359,10 +359,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Squash",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Crab",
@@ -373,7 +373,7 @@ const produce = [
     foodType: "example",
     usedAs: "Fish",
     month: ["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
-    allergens: "none",
+    allergens: "Crustacean",
   },
   {
     foodName: "Crab Apple",
@@ -381,10 +381,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Pome",
     usedAs: "Fruit",
     month: ["Aug"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Cranberry",
@@ -392,10 +392,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Damson",
@@ -403,10 +403,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Drupe",
     usedAs: "Fruit",
     month: ["Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Date",
@@ -414,10 +414,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jan", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Duck",
@@ -425,10 +425,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fowl",
     usedAs: "Meat",
     month: ["Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Elderberries",
@@ -436,10 +436,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Fennel Bulb",
@@ -447,10 +447,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Stem",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Fig",
@@ -458,10 +458,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Garlic",
@@ -469,10 +469,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Herb",
     usedAs: "Herb",
     month: ["Jul", "Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Globe Artichoke",
@@ -480,10 +480,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Goose",
@@ -491,10 +491,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fowl",
     usedAs: "Meat",
     month: ["Jan", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Gooseberry",
@@ -502,10 +502,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Grapefruit",
@@ -513,10 +513,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Citrus",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar", "Apr", "May", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Grouse",
@@ -524,10 +524,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fowl",
     usedAs: "Meat",
     month: ["Aug", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Guinea Fowl",
@@ -535,10 +535,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fowl",
     usedAs: "Meat",
     month: ["Sep", "Oct", "Nov"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Halibut",
@@ -546,10 +546,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "Fish",
   },
   {
     foodName: "Jerusalem Artichoke",
@@ -557,10 +557,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Kale",
@@ -568,10 +568,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Kipper",
@@ -579,10 +579,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "Fish",
   },
   {
     foodName: "Kohlrabi",
@@ -590,10 +590,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Aug", "Sep", "Oct", "Nov"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Lamb",
@@ -601,7 +601,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Meat",
     usedAs: "Meat",
     month: [
       "Jan",
@@ -617,7 +617,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Lamb's Lettuce",
@@ -625,10 +625,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Leek",
@@ -636,10 +636,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Lemon",
@@ -647,10 +647,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Citrus",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Lettuce",
@@ -658,10 +658,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Loganberry",
@@ -669,10 +669,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Mackerel",
@@ -680,10 +680,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["May", "Jun", "Jul", "Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "Fish",
   },
   {
     foodName: "Mangetout",
@@ -691,10 +691,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Legume",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Marrow",
@@ -702,10 +702,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Squash",
     usedAs: "Vegetable",
     month: ["Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Mint",
@@ -713,10 +713,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Herb",
     usedAs: "Herb",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Mussels",
@@ -724,10 +724,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["Jan", "Feb", "Mar", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "Crustacean",
   },
   {
     foodName: "Nectarine",
@@ -735,10 +735,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Citrus",
     usedAs: "Fruit",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "New Potatoes",
@@ -746,10 +746,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Onion",
@@ -757,7 +757,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Allium",
     usedAs: "Vegetable",
     month: [
       "Jan",
@@ -773,7 +773,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Orange",
@@ -781,10 +781,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Citrus",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Oyster",
@@ -792,10 +792,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["Jan", "Feb", "Mar", "Apr", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "Crustacean",
   },
   {
     foodName: "Pak Choi",
@@ -803,7 +803,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: [
       "Jan",
@@ -819,7 +819,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Parsnip",
@@ -827,10 +827,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Peach",
@@ -838,10 +838,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Drupe",
     usedAs: "Fruit",
     month: ["Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Pear",
@@ -849,10 +849,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Pome",
     usedAs: "Fruit",
     month: ["Jan", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Peas",
@@ -860,10 +860,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Legume",
     usedAs: "Vegetable",
     month: ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Pepper",
@@ -871,10 +871,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Vegetable",
     month: ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Plum",
@@ -882,10 +882,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Drupe",
     usedAs: "Fruit",
     month: ["Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Pomegranate",
@@ -893,7 +893,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: [
       "Jan",
@@ -909,7 +909,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Pork",
@@ -917,7 +917,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Meat",
     usedAs: "Meat",
     month: [
       "Jan",
@@ -933,7 +933,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Potato",
@@ -941,10 +941,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Pumpkin",
@@ -952,10 +952,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Squash",
     usedAs: "Vegetable",
     month: ["Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Purple Sprouting Broccoli",
@@ -963,10 +963,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Feb", "Mar", "Apr"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Quince",
@@ -974,10 +974,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Pome",
     usedAs: "Fruit",
     month: ["Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Radicchio",
@@ -985,7 +985,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: [
       "Jan",
@@ -1001,7 +1001,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Radish",
@@ -1009,10 +1009,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["May", "Jun", "Jul", "Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Raspberry",
@@ -1020,10 +1020,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Redcurrant",
@@ -1031,10 +1031,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Rhubarb",
@@ -1042,10 +1042,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Stem",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Runner Bean",
@@ -1053,10 +1053,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Legume",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Salmon",
@@ -1064,10 +1064,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Fep"],
-    allergens: "none",
+    allergens: "Fish",
   },
   {
     foodName: "Salsify",
@@ -1075,10 +1075,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Samphire",
@@ -1086,10 +1086,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Jul", "Aug"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Sorrel",
@@ -1097,10 +1097,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Spinach",
@@ -1108,10 +1108,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Spring Greens",
@@ -1119,10 +1119,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Spring Lamb",
@@ -1130,10 +1130,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Meat",
     usedAs: "Meat",
     month: ["Feb", "Mar", "Apr", "May", "Jun"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Spring Onion",
@@ -1141,7 +1141,7 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Allium",
     usedAs: "Vegetable",
     month: [
       "Jan",
@@ -1157,7 +1157,7 @@ const produce = [
       "Nov",
       "Dec",
     ],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Strawberry",
@@ -1165,10 +1165,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Swede",
@@ -1176,10 +1176,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Sweet Potato",
@@ -1187,10 +1187,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Sweetcorn",
@@ -1198,10 +1198,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Scientific Anomaly",
     usedAs: "Vegetable",
     month: ["Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Swiss Chard",
@@ -1209,10 +1209,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Jul", "Aug", "Sep", "Oct", "Nov"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Tayberry",
@@ -1220,10 +1220,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul", "Aug"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Tomato",
@@ -1231,10 +1231,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep", "Oct"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Tuna",
@@ -1242,10 +1242,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "Fish",
   },
   {
     foodName: "Turkey",
@@ -1253,10 +1253,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fowl",
     usedAs: "Meat",
     month: ["Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Turnip",
@@ -1264,10 +1264,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Venison",
@@ -1275,10 +1275,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Meat",
     usedAs: "Meat",
     month: ["Jan", "Feb", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Watercress",
@@ -1286,10 +1286,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul", "Aug", "Sep"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Watermelon",
@@ -1297,10 +1297,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul", "Aug"],
-    allergens: "none",
+    allergens: "NA",
   },
   {
     foodName: "Whiting",
@@ -1308,10 +1308,10 @@ const produce = [
     description:
       "This is an example entry, and this is an example description.",
     family: "example",
-    foodType: "example",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["Jan", "Feb", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
-    allergens: "none",
+    allergens: "Fish",
   },
 ];
 
