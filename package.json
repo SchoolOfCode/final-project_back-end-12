@@ -20,7 +20,7 @@
     "populateTable": "node -r dotenv/config ./db/scripts/populateTable.js",
     "dropTable": "node -r dotenv/config ./db/scripts/deleteTable.js",
     "reset":"npm run dropTable && npm run createTable && npm run populateTable",
-    "start":"node -r dotenv/config ./app.js "
+    "start":"node -r dotenv/config .git /app.js "
 },
   "repository": {
     "type": "git",
