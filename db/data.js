@@ -22,7 +22,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "Rosaceae",
+    family: "Rose",
     foodType: "Pome",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Sep", "Oct", "Nov", "Dec"],
@@ -33,7 +33,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Drupe",
     usedAs: "Fruit",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
@@ -44,7 +44,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Asparagus",
     foodType: "Stem",
     usedAs: "Vegetable",
     month: ["Jun", "Jul"],
@@ -55,7 +55,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Nightshade",
     foodType: "Berry",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep", "Oct"],
@@ -66,7 +66,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Musa",
     foodType: "Berry",
     usedAs: "Fruit",
     month: [
@@ -90,7 +90,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Mint",
     foodType: "Herb",
     usedAs: "Herb",
     month: ["Jul", "Aug"],
@@ -101,7 +101,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Meat",
     usedAs: "Meat",
     month: [
@@ -125,7 +125,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Beet",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
@@ -136,7 +136,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Aug", "Sep", "Oct"],
@@ -158,7 +158,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Ribes",
     foodType: "Pome",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar", "Dec"],
@@ -169,7 +169,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Legume",
     foodType: "Legume",
     usedAs: "Vegetable",
     month: ["Jul", "Aug", "Sep"],
@@ -180,7 +180,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Aug", "Sep", "Oct"],
@@ -191,7 +191,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Oct", "Nov", "Dec"],
@@ -202,7 +202,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Root",
     usedAs: "Vegetable",
     month: [
@@ -226,7 +226,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Carrot",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep"],
@@ -237,7 +237,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Apr"],
@@ -248,7 +248,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Jul", "Aug", "Sep", "Oct"],
@@ -259,7 +259,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Parsley",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Apr", "Sep", "Oct", "Nov", "Dec"],
@@ -270,7 +270,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Parsley",
     foodType: "Stem",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Aug", "Sep", "Oct", "Nov", "Dec"],
@@ -281,7 +281,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul"],
@@ -292,7 +292,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Parsley",
     foodType: "Herb",
     usedAs: "Herb",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
@@ -303,7 +303,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Beech",
     foodType: "Nut",
     usedAs: "Nut",
     month: ["Jan", "Oct", "Nov", "Dec"],
@@ -314,7 +314,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Daisy",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar"],
@@ -325,7 +325,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Citrus",
     foodType: "Citrus",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Nov", "Dec"],
@@ -336,7 +336,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["Feb", "Mar", "Apr"],
@@ -347,7 +347,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cucurbita",
     foodType: "Squash",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep"],
@@ -358,7 +358,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cucurbita",
     foodType: "Squash",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug"],
@@ -369,8 +369,8 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
-    foodType: "example",
+    family: "Fish",
+    foodType: "Fish",
     usedAs: "Fish",
     month: ["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
     allergens: "Crustacean",
@@ -380,7 +380,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Pome",
     usedAs: "Fruit",
     month: ["Aug"],
@@ -391,7 +391,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Heath",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Oct", "Nov", "Dec"],
@@ -402,7 +402,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Drupe",
     usedAs: "Fruit",
     month: ["Sep"],
@@ -413,7 +413,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Palm",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jan", "Nov", "Dec"],
@@ -424,7 +424,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Fowl",
     usedAs: "Meat",
     month: ["Oct", "Nov", "Dec"],
@@ -435,7 +435,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Sambucus",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Aug", "Sep", "Oct"],
@@ -457,7 +457,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Parsley",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Aug", "Sep", "Oct"],
@@ -468,7 +468,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Amaryllis",
     foodType: "Herb",
     usedAs: "Herb",
     month: ["Jul", "Aug", "Sep", "Oct"],
@@ -479,7 +479,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Daisy",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
@@ -490,7 +490,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Fowl",
     usedAs: "Meat",
     month: ["Jan", "Sep", "Oct", "Nov", "Dec"],
@@ -501,7 +501,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Ribes",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jun", "Jul", "Aug", "Sep"],
@@ -512,7 +512,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Citrus",
     foodType: "Citrus",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar", "Apr", "May", "Dec"],
@@ -523,7 +523,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Fowl",
     usedAs: "Meat",
     month: ["Aug", "Sep", "Oct", "Nov", "Dec"],
@@ -534,7 +534,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Fowl",
     usedAs: "Meat",
     month: ["Sep", "Oct", "Nov"],
@@ -545,7 +545,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"],
@@ -556,7 +556,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Daisy",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Nov", "Dec"],
@@ -567,7 +567,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Oct", "Nov", "Dec"],
@@ -578,7 +578,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
@@ -589,7 +589,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Aug", "Sep", "Oct", "Nov"],
@@ -600,7 +600,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Meat",
     usedAs: "Meat",
     month: [
@@ -624,7 +624,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Honeysuckle",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
@@ -635,7 +635,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Amaryllis",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Sep", "Oct", "Nov", "Dec"],
@@ -646,7 +646,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Citrus",
     foodType: "Citrus",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar"],
@@ -657,7 +657,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Daisy",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
@@ -668,7 +668,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Aug", "Sep"],
@@ -679,7 +679,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["May", "Jun", "Jul", "Aug", "Sep", "Oct"],
@@ -690,7 +690,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Legume",
     foodType: "Legume",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug"],
@@ -701,7 +701,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cucurbita",
     foodType: "Squash",
     usedAs: "Vegetable",
     month: ["Aug", "Sep"],
@@ -712,7 +712,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Mint",
     foodType: "Herb",
     usedAs: "Herb",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
@@ -723,7 +723,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["Jan", "Feb", "Mar", "Oct", "Nov", "Dec"],
@@ -734,7 +734,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Citrus",
     foodType: "Citrus",
     usedAs: "Fruit",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
@@ -745,7 +745,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Nightshade",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul"],
@@ -756,7 +756,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Amaryllis",
     foodType: "Allium",
     usedAs: "Vegetable",
     month: [
@@ -780,7 +780,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Citrus",
     foodType: "Citrus",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar"],
@@ -791,7 +791,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["Jan", "Feb", "Mar", "Apr", "Sep", "Oct", "Nov", "Dec"],
@@ -802,7 +802,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: [
@@ -826,7 +826,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Parsley",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Sep", "Oct", "Nov", "Dec"],
@@ -837,7 +837,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Drupe",
     usedAs: "Fruit",
     month: ["Aug", "Sep"],
@@ -848,7 +848,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Pome",
     usedAs: "Fruit",
     month: ["Jan", "Sep", "Oct", "Nov", "Dec"],
@@ -859,7 +859,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Legume",
     foodType: "Legume",
     usedAs: "Vegetable",
     month: ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
@@ -870,7 +870,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Nightshade",
     foodType: "Berry",
     usedAs: "Vegetable",
     month: ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"],
@@ -881,7 +881,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Drupe",
     usedAs: "Fruit",
     month: ["Sep", "Oct"],
@@ -892,7 +892,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Punica",
     foodType: "Berry",
     usedAs: "Fruit",
     month: [
@@ -916,7 +916,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Meat",
     usedAs: "Meat",
     month: [
@@ -940,7 +940,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Nightshade",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul"],
@@ -951,7 +951,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cucurbita",
     foodType: "Squash",
     usedAs: "Vegetable",
     month: ["Oct", "Nov", "Dec"],
@@ -962,7 +962,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Cruciferous",
     usedAs: "Vegetable",
     month: ["Feb", "Mar", "Apr"],
@@ -973,7 +973,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Pome",
     usedAs: "Fruit",
     month: ["Oct", "Nov", "Dec"],
@@ -984,7 +984,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Daisy",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: [
@@ -1008,7 +1008,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["May", "Jun", "Jul", "Aug", "Sep", "Oct"],
@@ -1019,7 +1019,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul", "Aug", "Sep"],
@@ -1030,7 +1030,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Ribes",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul", "Aug", "Sep"],
@@ -1041,7 +1041,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Buckwheat",
     foodType: "Stem",
     usedAs: "Fruit",
     month: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
@@ -1052,7 +1052,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Legume",
     foodType: "Legume",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep", "Oct", "Nov"],
@@ -1063,7 +1063,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Fep"],
@@ -1074,7 +1074,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Daisy",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Oct", "Nov", "Dec"],
@@ -1085,7 +1085,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Parsley",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Jul", "Aug"],
@@ -1107,7 +1107,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Buckwheat",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul", "Aug", "Sep"],
@@ -1118,7 +1118,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun"],
@@ -1129,7 +1129,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Meat",
     usedAs: "Meat",
     month: ["Feb", "Mar", "Apr", "May", "Jun"],
@@ -1140,7 +1140,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Amaryllis",
     foodType: "Allium",
     usedAs: "Vegetable",
     month: [
@@ -1164,7 +1164,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jun", "Jul", "Aug", "Sep"],
@@ -1175,7 +1175,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Nov", "Dec"],
@@ -1186,7 +1186,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Morning Glory",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Mar", "Oct", "Nov", "Dec"],
@@ -1197,7 +1197,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Grass",
     foodType: "Scientific Anomaly",
     usedAs: "Vegetable",
     month: ["Sep"],
@@ -1208,7 +1208,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Beet",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Jul", "Aug", "Sep", "Oct", "Nov"],
@@ -1230,7 +1230,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Rose",
     foodType: "Berry",
     usedAs: "Vegetable",
     month: ["Jun", "Jul", "Aug", "Sep", "Oct"],
@@ -1241,7 +1241,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["May", "Jun", "Jul", "Aug", "Sep"],
@@ -1252,7 +1252,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Fowl",
     usedAs: "Meat",
     month: ["Dec"],
@@ -1263,7 +1263,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Root",
     usedAs: "Vegetable",
     month: ["Jan", "Feb", "Oct", "Nov", "Dec"],
@@ -1274,7 +1274,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Meat",
     foodType: "Meat",
     usedAs: "Meat",
     month: ["Jan", "Feb", "Nov", "Dec"],
@@ -1285,7 +1285,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cabbage",
     foodType: "Leaf",
     usedAs: "Vegetable",
     month: ["Apr", "May", "Jun", "Jul", "Aug", "Sep"],
@@ -1296,7 +1296,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Cucurbita",
     foodType: "Berry",
     usedAs: "Fruit",
     month: ["Jul", "Aug"],
@@ -1307,7 +1307,7 @@ const produce = [
     imageURL: "https://via.placeholder.com/200x200",
     description:
       "This is an example entry, and this is an example description.",
-    family: "example",
+    family: "Fish",
     foodType: "Fish",
     usedAs: "Fish",
     month: ["Jan", "Feb", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
