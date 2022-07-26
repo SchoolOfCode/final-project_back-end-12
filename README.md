@@ -65,7 +65,7 @@ In the back-end repository, our files are structured as follows:
       - deleteTable.js (deletes produce table from database)
       - populateTable.js (populates produce table on database)
       - dummyData.js (test data, used to make sure our scripts and database are working)
-      - data.js (not made yet, all data should be lowercase bar the 'description' which should be properly capitalised)
+      - data.js (all data currently properly capitalised, so remember to make to lower or upper case when querying or displaying)
 - routes
 - app.js
 - index.js
