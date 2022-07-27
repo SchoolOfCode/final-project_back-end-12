@@ -1,20 +1,20 @@
-import express from 'express'
-import cors from 'cors'
-import router from './routes/index.js'
+import express from "express";
+import cors from "cors";
+import router from "./routes/index.js";
 
-const PORT= process.env.PORT || 4000
+const PORT = process.env.PORT || 4000;
 
+const app = express();
 
-const app = express()
+app.use(cors());
+app.use(express.json());
 
+app.use("/produce", router);
 
-app.use(cors())
-app.use(express.json())
+app.get("/", (req, res) => {
+  res.send("hello world");
+});
 
-app.use("/produce", router)
+app.listen(`${PORT}`);
 
-app.get('/', (req, res) => {
-  res.send('hello world')
-})
-
-app.listen(`${PORT}`)
+console.log(`Listening on ${PORT}`);
