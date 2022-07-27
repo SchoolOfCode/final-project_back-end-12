@@ -7,7 +7,7 @@ export async function getAll() {
 }
 export async function getByItem(item) {
   let res = await query(
-    `SELECT * FROM produce WHERE lower(name) LIKE lower($1)`,
+    `SELECT * FROM produce WHERE lower(name) LIKE lower($1) RETURNING *`,
     [item]
   );
   return res.rows;

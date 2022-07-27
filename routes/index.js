@@ -4,6 +4,7 @@ import { getAll, getByItem } from "../models/index.js";
 const router = express.Router();
 
 router.get("/", async function (req, res) {
+  console.log(req.query);
   if (req.query !== undefined) {
     let result = await getByItem(req.query);
     return res.json({ success: true, payload: result });
