@@ -12,7 +12,9 @@ app.use(express.json());
 app.use("/produce", router);
 
 app.get("/", (req, res) => {
-  res.send("hello world");
+  res.send(
+    "Go to /produce to get all items, or use ?item= or ?month= to query specifically"
+  );
 });
 
 app.listen(`${PORT}`);

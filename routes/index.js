@@ -1,15 +1,17 @@
 import express from "express";
-import { getAll, getByItem } from "../models/index.js";
+import { getAll, getByItem, getByMonth } from "../models/index.js";
 
 const router = express.Router();
 
 router.get("/", async function (req, res) {
-  console.log(req.query);
   if (req.query.item !== undefined) {
     let result = await getByItem(req.query.item);
     return res.json({ success: true, payload: result });
   }
-  console.log(`Getting all items`);
+  if (req.query.month !== undefined) {
+    let result = await getByMonth(req.query.month);
+    return res.json({ success: true, payload: result });
+  }
   let result = await getAll();
   return res.json({ success: true, payload: result });
 });
