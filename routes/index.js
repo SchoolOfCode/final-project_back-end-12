@@ -4,10 +4,10 @@ import { getAll, getByItem } from "../models/index.js";
 const router = express.Router();
 
 router.get("/", async function (req, res) {
-  /*   if (req.query !== undefined) {
+  if (req.query !== undefined) {
     let result = await getByItem(req.query);
     return res.json({ success: true, payload: result });
-  } */
+  }
   console.log(`Getting all items`);
   let result = await getAll();
   return res.json({ success: true, payload: result });
