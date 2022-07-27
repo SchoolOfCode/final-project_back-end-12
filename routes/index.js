@@ -1,20 +1,22 @@
-import express from 'express'
-import { getAll } from '../models/index.js';
+import express from "express";
+import { getAll, getByItem } from "../models/index.js";
 
-const router= express.Router()
+const router = express.Router();
 
-
-router.get('/', async function(req, res) {
+router.get("/", async function (req, res) {
+  /*   if (req.query !== undefined) {
+    let result = await getByItem(req.query);
+    return res.json({ success: true, payload: result });
+  } */
+  console.log(`Getting all items`);
   let result = await getAll();
-  return res.json({success: true, payload: result});
+  return res.json({ success: true, payload: result });
+});
 
+// router.post
 
-})
+// router.patch
 
-// router.post 
-
-// router.patch 
-
-// router.delete 
+// router.delete
 
 export default router;
