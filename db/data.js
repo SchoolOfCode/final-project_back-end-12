@@ -1,19 +1,7 @@
 /* Data drawn from https://www.bbcgoodfood.com/seasonal-calendar. If we want to make this a releasable API at some point in the future, will probably be worth making the data more comprehensive, but this'll do for now. */
 
 /*
-FIELDS TO FILL:
-foodName DONE
-imageURL DONE
-description
-family DONE WITH CAVEAT THIS WAS A NIGHTMARE, MIGHT NEED EDITING
-foodType DONE WITH CAVEAT THIS WAS A NIGHTMARE, MIGHT NEED EDITING
-usedAs DONE
-month DONE
-allergens DONE WITH CAVEAT THAT I DON'T KNOW ALL ALLERGENS, WILL WANT DOUBLE-CHECKING
-*/
-
-/*
-TODO: ADD DESCRIPTIONS.
+TODO: ADD DESCRIPTIONS FOR ITEMS WE WANT TO SHOW IN THE APP DEMO.
 TODO: ADD EASTER EGG LISTINGS.
 */
 
