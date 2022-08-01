@@ -12,7 +12,6 @@ export function getRandom(allResults) {
           return item.id === allResults[randomNumber].id;
         })
       ) {
-        console.log("Duplicate found, going again!");
         i--;
       } else {
         randomResults.push(allResults[randomNumber]);
