@@ -13,7 +13,7 @@ app.use("/produce", router);
 
 app.get("/", (req, res) => {
   res.send(
-    "Go to /produce to get all items, or use ?item= or ?month= to query specifically"
+    "Go to /produce to get all items, or use ?item= or ?month= to query specifically, or /produce/random if you're feeling lucky"
   );
 });
 
