@@ -1,0 +1,51 @@
+import { test, expect, describe } from "@jest/globals";
+import { pool } from "./db/index.js";
+import request from "supertest";
+import { app } from "./app.js";
+
+test("Testing get all using /produce", async () => {
+  const response = await request(app)
+    .get("/produce")
+    .set("Accept", "application/json");
+  expect(response.status).toEqual(200);
+  expect(response.body).toEqual(
+    expect.objectContaining({
+      success: true,
+      payload: expect.arrayContaining([
+        expect.objectContaining({
+          id: expect.any(Number),
+          name: expect.any(String),
+          imageurl: expect.any(String),
+          description: expect.any(String),
+          family: expect.any(String),
+          foodtype: expect.any(String),
+          usedas: expect.any(String),
+          month: expect.arrayContaining([expect.any(String)]),
+          allergens: expect.any(String),
+        }),
+      ]),
+    })
+  );
+});
+
+afterAll((done) => {
+  pool.end();
+  done();
+});
+
+/*
+Import:
+Jest
+Supertest
+App
+Pool
+
+Write a jest test block
+Use supertest to mock a request using app.js
+Pass the route via .get
+Set application/json if needed
+
+Assert
+Expect status code
+Expect body using models test 
+*/
