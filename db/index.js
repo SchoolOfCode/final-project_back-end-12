@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 dotenv.config();
 const connectionString = process.env.PGURI;
 
-const pool = new pg.Pool({
+export const pool = new pg.Pool({
   connectionString,
   ssl: { rejectUnauthorized: false },
 });
