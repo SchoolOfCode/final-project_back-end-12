@@ -39,7 +39,7 @@ test("Testing get item using a query after produce", async () => {
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
-          name: 'Pear',
+          name: "Pear",
           imageurl: expect.any(String),
           description: expect.any(String),
           family: expect.any(String),
@@ -70,7 +70,7 @@ test("Testing the get month route using a month query", async () => {
           family: expect.any(String),
           foodtype: expect.any(String),
           usedas: expect.any(String),
-          month: expect.arrayContaining(['March']),
+          month: expect.arrayContaining(["March"]),
           allergens: expect.any(String),
         }),
       ]),
@@ -78,25 +78,6 @@ test("Testing the get month route using a month query", async () => {
   );
 });
 
-
 afterAll((done) => {
-  pool.end();
-  done();
+  pool.end(done);
 });
-
-/*
-Import:
-Jest
-Supertest
-App
-Pool
-
-Write a jest test block
-Use supertest to mock a request using app.js
-Pass the route via .get
-Set application/json if needed
-
-Assert
-Expect status code
-Expect body using models test 
-*/
