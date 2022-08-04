@@ -19,4 +19,4 @@ export function getRandom(allResults) {
     }
     return randomResults;
   }
-}
+};

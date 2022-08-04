@@ -1,20 +1,85 @@
 import { test, expect, describe } from "@jest/globals";
 import { getRandom } from "./randomGet.js"
-import { FirstTenData } from "./testingdata.js"
+import { firstTenData, duplicateData, randomData } from "./testingdata.js"
 
-
-// give the test script an array of objects (get from the db)
-// include a duplicate in the array
-// 2 test:
-// give it an array to test if it gets 5 items/10
-// 6 items - 2 duplicates
-// test should give back exactly 5 unique objects
 
 test("Testing the getRandom to check that it produces 5 objects from an array of 10", () => {
-  const data =  FirstTenData;
-  const testArray = getRandom(data)
+
+  const data =  firstTenData;
+
+  const testArray = getRandom(data);
+
   expect(testArray.length).toEqual(5);
+
 });
+
+test("Testing the getRandom to check that it produces 5 unique objects with no duplicates from an array of 10 (with 5 duplicates)", () => {
+  
+  const data =  duplicateData;
+
+  const testArray = getRandom(data);
+
+  let randomResults = [];
+
+  let check = null;
+
+  function randomTest(){
+
+
+    for (let i = 0; i < 5; i++) {
+
+        if (
+          testArray.some((item) => {
+            return item.id === randomResults[i];
+          })
+        ) {
+          let check = false;
+        } else {
+          randomResults.push(allResults[randomNumber]);
+          let check = true;
+        }
+    }
+  } 
+
+  expect(check).toEqual(true);
+
+});
+
+// test("Testing the getRandom to check that it produces 5 unique objects with no duplicates from an array of 10 (with 5 duplicates)", () => {
+  
+//   const data =  duplicateData;
+
+//   const testArray = getRandom(data);
+
+//   let randomResult = randomData;
+
+//   function randomTest(testArray, randomResults){
+
+//     for (let i = 0; i < 5; i++) {
+
+//         if (
+//           testArray.some((item) => {
+//             return item.id === randomResults[i];
+//           })
+//         ) {
+//           false;
+//         } else {
+//           true;
+//         }
+//     }
+//   } 
+
+//   expect().toEqual();
+
+// });
+
+  //Plan
+  // expecting the sum of all testArray.id = (57, 58, 59, 60, 61)Sum of them = 295
+  // create variable for id sum =0
+  // To get the sum we will loop through (.map) and add id integer to id sum.
+  // test the idsum equals what we are expecting (295).
+
+
 
 
 // test("Testing the getRandom to check that it produces 5 objects from an array of 10", () => {
