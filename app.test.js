@@ -78,6 +78,41 @@ test("Testing the get month route using a month query", async () => {
   );
 });
 
+
+test("Testing that produce/random returns 5 objects", async () => {
+  const response = await request(app)
+    .get("/produce/random?month=January")
+    .set("Accept", "application/json");
+  expect(response.status).toEqual(200);
+  expect(response.body.payload.length).toEqual(5);
+});
+
+test("Testing that produce/random returns unique objects", async () => {
+  const response = await request(app)
+    .get("/produce/random?month=January")
+    .set("Accept", "application/json");
+  expect(response.status).toEqual(200);
+  expect(response.body).toEqual(
+    expect.objectContaining({
+      success: true,
+      payload: expect.arrayContaining([
+        expect.objectContaining({
+          id: expect.any(Number),
+          name: expect.any(String),
+          imageurl: expect.any(String),
+          description: expect.any(String),
+          family: expect.any(String),
+          foodtype: expect.any(String),
+          usedas: expect.any(String),
+          month: expect.arrayContaining(["January"]),
+          allergens: expect.any(String),
+        }),
+      ]),
+    })
+  );
+  
+});
+
 afterAll((done) => {
   pool.end(done);
 });
