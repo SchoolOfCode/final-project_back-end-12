@@ -2,7 +2,7 @@ import express from "express";
 import { getAll, getByItem, getByMonth } from "../models/index.js";
 import { getRandom } from "../helper_scripts/randomGet.js";
 
-const router = express.Router();
+export const router = express.Router();
 
 router.get("/", async function (req, res) {
   if (req.query.item !== undefined) {

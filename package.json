@@ -3,9 +3,11 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
-    "pg": "^8.7.3"
+    "pg": "^8.7.3",
+    "supertest": "^6.2.4"
   },
   "devDependencies": {
+    "jest": "^28.1.3",
     "nodemon": "^2.0.19"
   },
   "name": "final-project_back-end-12",
@@ -14,15 +16,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
     "dbtest": "node -r dotenv/config ./db/index.js",
     "createTable": "node -r dotenv/config ./db/scripts/createTable.js",
     "populateTable": "node -r dotenv/config ./db/scripts/populateTable.js",
     "dropTable": "node -r dotenv/config ./db/scripts/deleteTable.js",
-    "reset":"npm run dropTable && npm run createTable && npm run populateTable",
-    "start":"node ./app.js"
-    
-},
+    "reset": "npm run dropTable && npm run createTable && npm run populateTable",
+    "start": "node ./app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SchoolOfCode/final-project_back-end-12.git"
