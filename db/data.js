@@ -8,8 +8,7 @@ TODO: ADD EASTER EGG LISTINGS.
 const produce = [
   {
     foodName: "Apple",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/019-apple_zxjdqm.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -27,8 +26,7 @@ const produce = [
   },
   {
     foodName: "Apricot",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637881/Seasonal/012-apricot_mj99xa.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -39,8 +37,7 @@ const produce = [
   },
   {
     foodName: "Asparagus",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Asparagus",
@@ -51,8 +48,7 @@ const produce = [
   },
   {
     foodName: "Aubergine",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637877/Seasonal/001-aubergine_g9dkiw.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Nightshade",
@@ -63,8 +59,7 @@ const produce = [
   },
   {
     foodName: "Banana",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637877/Seasonal/002-bananas_awomgk.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Musa",
@@ -88,8 +83,7 @@ const produce = [
   },
   {
     foodName: "Basil",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637884/Seasonal/013-basil_hwolf6.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Mint",
@@ -100,8 +94,7 @@ const produce = [
   },
   {
     foodName: "Beef",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637877/Seasonal/003-beef_sjwsxt.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -125,8 +118,7 @@ const produce = [
   },
   {
     foodName: "Beetroot",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637877/Seasonal/004-beetroot_zeq9bj.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Beet",
@@ -145,8 +137,7 @@ const produce = [
   },
   {
     foodName: "Blackberry",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637877/Seasonal/005-berry_zflhtr.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -157,8 +148,7 @@ const produce = [
   },
   {
     foodName: "Blackcurrants",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "example",
@@ -169,8 +159,7 @@ const produce = [
   },
   {
     foodName: "Bramley Apple",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Ribes",
@@ -181,8 +170,7 @@ const produce = [
   },
   {
     foodName: "Broadbean",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637883/Seasonal/014-peas_ck7vlm.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Legume",
@@ -193,8 +181,7 @@ const produce = [
   },
   {
     foodName: "Broccoli",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637879/Seasonal/006-broccoli_ehpar1.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -205,8 +192,7 @@ const produce = [
   },
   {
     foodName: "Brussels Sprouts",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -217,8 +203,7 @@ const produce = [
   },
   {
     foodName: "Cabbage",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637880/Seasonal/007-cabbage_xqq68l.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -242,8 +227,7 @@ const produce = [
   },
   {
     foodName: "Carrot",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637881/Seasonal/008-carrot_xesp4y.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Carrot",
@@ -254,8 +238,7 @@ const produce = [
   },
   {
     foodName: "Cauliflower",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -266,8 +249,7 @@ const produce = [
   },
   {
     foodName: "Cavolo Nero",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637881/Seasonal/009-kale_wuhokp.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -278,8 +260,7 @@ const produce = [
   },
   {
     foodName: "Celeriac",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Parsley",
@@ -299,8 +280,7 @@ const produce = [
   },
   {
     foodName: "Celery",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637884/Seasonal/015-celery_g1mfru.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Parsley",
@@ -319,8 +299,7 @@ const produce = [
   },
   {
     foodName: "Cherry",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -331,8 +310,7 @@ const produce = [
   },
   {
     foodName: "Chervil",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637885/Seasonal/016-chervil_vtabww.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Parsley",
@@ -343,8 +321,7 @@ const produce = [
   },
   {
     foodName: "Chestnut",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Beech",
@@ -355,8 +332,7 @@ const produce = [
   },
   {
     foodName: "Chicory",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Daisy",
@@ -367,8 +343,7 @@ const produce = [
   },
   {
     foodName: "Clementine",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Citrus",
@@ -379,8 +354,7 @@ const produce = [
   },
   {
     foodName: "Cod",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -391,8 +365,7 @@ const produce = [
   },
   {
     foodName: "Courgette",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637886/Seasonal/017-courgette_x1jmsl.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cucurbita",
@@ -403,8 +376,7 @@ const produce = [
   },
   {
     foodName: "Courgette Flower",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637886/Seasonal/017-courgette_x1jmsl.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cucurbita",
@@ -415,8 +387,7 @@ const produce = [
   },
   {
     foodName: "Crab",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637885/Seasonal/018-crab_oxn7ew.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -436,8 +407,7 @@ const produce = [
   },
   {
     foodName: "Crab Apple",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/019-apple_zxjdqm.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -448,8 +418,7 @@ const produce = [
   },
   {
     foodName: "Cranberry",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Heath",
@@ -460,8 +429,7 @@ const produce = [
   },
   {
     foodName: "Damson",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -472,8 +440,7 @@ const produce = [
   },
   {
     foodName: "Date",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Palm",
@@ -484,8 +451,7 @@ const produce = [
   },
   {
     foodName: "Duck",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -496,8 +462,7 @@ const produce = [
   },
   {
     foodName: "Elderberries",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637877/Seasonal/020-berries_pw9fzh.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Sambucus",
@@ -508,8 +473,7 @@ const produce = [
   },
   {
     foodName: "Fennel Bulb",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637880/Seasonal/021-fennel_uqqf6p.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "example",
@@ -520,8 +484,7 @@ const produce = [
   },
   {
     foodName: "Fig",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637882/Seasonal/022-figs_jj1ssf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Parsley",
@@ -532,8 +495,7 @@ const produce = [
   },
   {
     foodName: "Garlic",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637882/Seasonal/023-garlic_tszkk7.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Amaryllis",
@@ -544,8 +506,7 @@ const produce = [
   },
   {
     foodName: "Globe Artichoke",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637883/Seasonal/024-artichoke_rh8u1h.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Daisy",
@@ -556,8 +517,7 @@ const produce = [
   },
   {
     foodName: "Goose",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -568,8 +528,7 @@ const produce = [
   },
   {
     foodName: "Gooseberry",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637883/Seasonal/025-gooseberry_n0c9xl.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Ribes",
@@ -580,8 +539,7 @@ const produce = [
   },
   {
     foodName: "Grapefruit",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Citrus",
@@ -592,8 +550,7 @@ const produce = [
   },
   {
     foodName: "Grouse",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/026-chicken_xt4kgm.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -604,8 +561,7 @@ const produce = [
   },
   {
     foodName: "Guinea Fowl",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -616,8 +572,7 @@ const produce = [
   },
   {
     foodName: "Halibut",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/027-halibut_wagn5i.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -628,8 +583,7 @@ const produce = [
   },
   {
     foodName: "Jerusalem Artichoke",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Daisy",
@@ -640,8 +594,7 @@ const produce = [
   },
   {
     foodName: "Kale",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637881/Seasonal/009-kale_wuhokp.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -652,8 +605,7 @@ const produce = [
   },
   {
     foodName: "Kipper",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637890/Seasonal/034-mackerel_f8xvhi.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -664,8 +616,7 @@ const produce = [
   },
   {
     foodName: "Kohlrabi",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/029-kohlrabi_nwtzii.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -676,8 +627,7 @@ const produce = [
   },
   {
     foodName: "Lamb",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/030-ewe_w2coor.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -701,8 +651,7 @@ const produce = [
   },
   {
     foodName: "Lamb's Lettuce",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637889/Seasonal/031-greens_rsygez.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Honeysuckle",
@@ -721,8 +670,7 @@ const produce = [
   },
   {
     foodName: "Leek",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Amaryllis",
@@ -741,8 +689,7 @@ const produce = [
   },
   {
     foodName: "Lemon",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Citrus",
@@ -753,8 +700,7 @@ const produce = [
   },
   {
     foodName: "Lettuce",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637889/Seasonal/032-lettuce_k50llo.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Daisy",
@@ -774,8 +720,7 @@ const produce = [
   },
   {
     foodName: "Loganberry",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637890/Seasonal/033-grape_jdq8ux.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -786,8 +731,7 @@ const produce = [
   },
   {
     foodName: "Mackerel",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637890/Seasonal/034-mackerel_f8xvhi.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -798,8 +742,7 @@ const produce = [
   },
   {
     foodName: "Mangetout",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637883/Seasonal/014-peas_ck7vlm.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Legume",
@@ -810,8 +753,7 @@ const produce = [
   },
   {
     foodName: "Marrow",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637890/Seasonal/035-marrow_hmofph.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cucurbita",
@@ -822,8 +764,7 @@ const produce = [
   },
   {
     foodName: "Mint",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637890/Seasonal/036-mint_umqpfz.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Mint",
@@ -834,8 +775,7 @@ const produce = [
   },
   {
     foodName: "Mussels",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -846,8 +786,7 @@ const produce = [
   },
   {
     foodName: "Nectarine",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637880/Seasonal/010-nectarine_vtqysg.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Citrus",
@@ -858,8 +797,7 @@ const produce = [
   },
   {
     foodName: "New Potatoes",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Nightshade",
@@ -870,8 +808,7 @@ const produce = [
   },
   {
     foodName: "Onion",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637891/Seasonal/037-onion_tzbdx9.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Amaryllis",
@@ -895,8 +832,7 @@ const produce = [
   },
   {
     foodName: "Orange",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Citrus",
@@ -907,8 +843,7 @@ const produce = [
   },
   {
     foodName: "Oyster",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -928,8 +863,7 @@ const produce = [
   },
   {
     foodName: "Pak Choi",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637891/Seasonal/038-pak-choi_ujodbb.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -953,8 +887,7 @@ const produce = [
   },
   {
     foodName: "Parsnip",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Parsley",
@@ -973,8 +906,7 @@ const produce = [
   },
   {
     foodName: "Peach",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637892/Seasonal/039-peach_tjw63g.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -985,8 +917,7 @@ const produce = [
   },
   {
     foodName: "Pear",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -997,8 +928,7 @@ const produce = [
   },
   {
     foodName: "Peas",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637883/Seasonal/014-peas_ck7vlm.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Legume",
@@ -1019,8 +949,7 @@ const produce = [
   },
   {
     foodName: "Pepper",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637892/Seasonal/040-peppers_gplnan.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Nightshade",
@@ -1040,8 +969,7 @@ const produce = [
   },
   {
     foodName: "Plum",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -1052,8 +980,7 @@ const produce = [
   },
   {
     foodName: "Pomegranate",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637893/Seasonal/041-pomegranate_xepy6o.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Punica",
@@ -1077,8 +1004,7 @@ const produce = [
   },
   {
     foodName: "Pork",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637893/Seasonal/042-pork_kzmixj.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -1102,8 +1028,7 @@ const produce = [
   },
   {
     foodName: "Potato",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Nightshade",
@@ -1114,8 +1039,7 @@ const produce = [
   },
   {
     foodName: "Pumpkin",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cucurbita",
@@ -1126,8 +1050,7 @@ const produce = [
   },
   {
     foodName: "Purple Sprouting Broccoli",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -1138,8 +1061,7 @@ const produce = [
   },
   {
     foodName: "Quince",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -1150,8 +1072,7 @@ const produce = [
   },
   {
     foodName: "Radicchio",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637893/Seasonal/043-red-cabbage_ztkwae.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Daisy",
@@ -1175,8 +1096,7 @@ const produce = [
   },
   {
     foodName: "Radish",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637893/Seasonal/044-radish_mchuo6.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -1187,8 +1107,7 @@ const produce = [
   },
   {
     foodName: "Raspberry",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637893/Seasonal/045-raspberry_ux5ngf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -1199,8 +1118,7 @@ const produce = [
   },
   {
     foodName: "Redcurrant",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637894/Seasonal/046-redcurrant_gq6syn.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Ribes",
@@ -1211,8 +1129,7 @@ const produce = [
   },
   {
     foodName: "Rhubarb",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Buckwheat",
@@ -1223,8 +1140,7 @@ const produce = [
   },
   {
     foodName: "Runner Bean",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637894/Seasonal/047-beans_er3cme.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Legume",
@@ -1235,8 +1151,7 @@ const produce = [
   },
   {
     foodName: "Salmon",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637895/Seasonal/048-salmon_judbg6.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -1247,8 +1162,7 @@ const produce = [
   },
   {
     foodName: "Salsify",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Daisy",
@@ -1260,7 +1174,7 @@ const produce = [
   {
     foodName: "Samphire",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659690222/Seasonal/58-rosemary_tagkf0.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Parsley",
@@ -1271,8 +1185,7 @@ const produce = [
   },
   {
     foodName: "Sorrel",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637895/Seasonal/049-sorrel_zzzw7z.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "example",
@@ -1283,8 +1196,7 @@ const produce = [
   },
   {
     foodName: "Spinach",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637895/Seasonal/050-spinach_whzzyi.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Buckwheat",
@@ -1295,8 +1207,7 @@ const produce = [
   },
   {
     foodName: "Spring Greens",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -1307,8 +1218,7 @@ const produce = [
   },
   {
     foodName: "Spring Lamb",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/030-ewe_w2coor.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -1319,8 +1229,7 @@ const produce = [
   },
   {
     foodName: "Spring Onion",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637896/Seasonal/051-spring-onion_eh5trg.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Amaryllis",
@@ -1344,8 +1253,7 @@ const produce = [
   },
   {
     foodName: "Strawberry",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637897/Seasonal/052-strawberry_pxugsj.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -1356,8 +1264,7 @@ const produce = [
   },
   {
     foodName: "Swede",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -1368,8 +1275,7 @@ const produce = [
   },
   {
     foodName: "Sweet Potato",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Morning Glory",
@@ -1380,8 +1286,7 @@ const produce = [
   },
   {
     foodName: "Sweetcorn",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Grass",
@@ -1392,8 +1297,7 @@ const produce = [
   },
   {
     foodName: "Swiss Chard",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637897/Seasonal/053-chard_p4ydid.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Beet",
@@ -1404,8 +1308,7 @@ const produce = [
   },
   {
     foodName: "Tayberry",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637890/Seasonal/033-grape_jdq8ux.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "example",
@@ -1416,8 +1319,7 @@ const produce = [
   },
   {
     foodName: "Tomato",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637880/Seasonal/011-tomato_ighe7m.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -1428,8 +1330,7 @@ const produce = [
   },
   {
     foodName: "Tuna",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/028-fish_eqeczk.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie..",
     family: "Fish",
@@ -1440,8 +1341,7 @@ const produce = [
   },
   {
     foodName: "Turkey",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -1452,8 +1352,7 @@ const produce = [
   },
   {
     foodName: "Turnip",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -1464,8 +1363,7 @@ const produce = [
   },
   {
     foodName: "Venison",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -1476,8 +1374,7 @@ const produce = [
   },
   {
     foodName: "Watercress",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637898/Seasonal/055-watercress_jzk4fu.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -1488,8 +1385,7 @@ const produce = [
   },
   {
     foodName: "Watermelon",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/056-watermelon_lpehjq.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cucurbita",
@@ -1500,8 +1396,7 @@ const produce = [
   },
   {
     foodName: "Whiting",
-    imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637890/Seasonal/034-mackerel_f8xvhi.png",
+    imageURL: "https://via.placeholder.com/200x200",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
