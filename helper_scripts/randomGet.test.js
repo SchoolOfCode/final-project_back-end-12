@@ -2,7 +2,6 @@ import { test, expect, describe } from "@jest/globals";
 import { getRandom } from "./randomGet.js"
 import { firstTenData, duplicateData, randomData } from "./testingdata.js"
 
-
 test("Testing the getRandom to check that it produces 5 objects from an array of 10", () => {
 
   const data =  firstTenData;
@@ -13,37 +12,33 @@ test("Testing the getRandom to check that it produces 5 objects from an array of
 
 });
 
-// test("Testing the getRandom to check that it produces 5 unique objects with no duplicates from an array of 10 (with 5 duplicates)", () => {
+test("Testing the getRandom to check that it produces 5 unique objects with no duplicates from an array of 10 (with 5 duplicates)", () => {
   
-//   const data =  duplicateData;
+  const data =  duplicateData;
 
-//   const testArray = getRandom(data);
+  const testArray = getRandom(data);
 
-//   let randomResults = [];
+  let randomResults = [];
 
-//   let check = null;
+  let check = null;
 
-//   function randomTest(){
+    for (let i = 0; i < testArray.length; i++) {
 
+        if (
+          randomResults.some((item) => {
+            return item.id === testArray[i].id;
+          })
+        ) {
+          check = false;
+        } else {
+          randomResults.push(testArray[i]);
+          check = true;
+        }
+    }
 
-//     for (let i = 0; i < 5; i++) {
+  expect(check).toEqual(true);
 
-//         if (
-//           testArray.some((item) => {
-//             return item.id === randomResults[i];
-//           })
-//         ) {
-//           check = false;
-//         } else {
-//           randomResults.push(allResults[randomNumber]);
-//           check = true;
-//         }
-//     }
-//   } 
-
-//   expect(check).toEqual(true);
-
-// });
+});
 
 test("Testing the getRandom to check that it produces 5 unique objects with no duplicates from an array of 10 (with 5 duplicates)", () => {
   

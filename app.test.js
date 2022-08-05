@@ -87,7 +87,7 @@ test("Testing that produce/random returns 5 objects", async () => {
   expect(response.body.payload.length).toEqual(5);
 });
 
-test("Testing that produce/random returns unique objects", async () => {
+test("Testing that random produce returns an object with expected key value pairs and the month key contains January string", async () => {
   const response = await request(app)
     .get("/produce/random?month=January")
     .set("Accept", "application/json");
@@ -113,6 +113,37 @@ test("Testing that produce/random returns unique objects", async () => {
   
 });
 
+
+test("Testing that random produce returns 5 unique objects from the database for January", async () => {
+  const response = await request(app)
+    .get("/produce/random?month=January")
+    .set("Accept", "application/json");
+  expect(response.status).toEqual(200);
+
+    const testArray = response.body.payload;
+  
+    let randomResults = [];
+  
+    let check = null;
+  
+      for (let i = 0; i < testArray.length; i++) {
+  
+          if (
+            randomResults.some((item) => {
+              return item.id === testArray[i].id;
+            })
+          ) {
+            check = false;
+          } else {
+            randomResults.push(testArray[i]);
+            check = true;
+          }
+      }
+  
+    expect(check).toEqual(true);
+
+}),
+ 
 afterAll((done) => {
   pool.end(done);
 });
