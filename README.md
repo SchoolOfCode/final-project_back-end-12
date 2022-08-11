@@ -148,6 +148,11 @@ Current models:
 
 - getAll
 
+## Stretch Goal/ Recipe API
+
+//Andy to fill this part out 
+
+
 ## Other
 
 Please refer to Trello for all upcoming tickets related to this repository.
