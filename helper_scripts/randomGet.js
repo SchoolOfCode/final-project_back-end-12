@@ -1,3 +1,6 @@
+// this function returns five random objects with no duplicates 
+
+
 export function getRandom(allResults) {
   let randomResults = [];
   let length = allResults.length;

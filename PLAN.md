@@ -1,3 +1,0 @@
-- crud routes
-- models
-- get by name and get by season, get all

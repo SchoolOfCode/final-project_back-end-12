@@ -29,10 +29,5 @@ router.get("/random", async function (req, res) {
   });
 });
 
-// router.post
-
-// router.patch
-
-// router.delete
 
 export default router;
