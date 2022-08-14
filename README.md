@@ -1,8 +1,23 @@
 # 12\*\* Seasonality App: Back-End Documentation
 
-This repository holds the back-end documentation for Team 12\*\* (Twelve Exponential) and their 'Seasonality' final project at the School of Code. TODO: INSERT AUTHOR DETAILS AND PROJECT DESCRIPTION HERE, AS WELL AS LINK TO FRONT-END.
+This repository holds the back-end documentation for _Seasonal_ by Team 12\*\* (Twelve Exponential). _Seasonal_ is our final project with the [School of Code](https://github.com/SchoolOfCode). In an agile team, over the course of a month, we researched, designed, and built the first iteration of our application, and are currently working on implementing stretch goals.
 
-This documentation file is currently intended to primarily act as a reference point for members of the 12\*\* team, when interacting with the back-end half of the project.
+The core aim of _Seasonal_ is to make it easier and more accessible for users to find out what food is in season in the UK during any given month. Users will be immediately provided with foods currently in season on the landing page, and then can navigate to more food currently in season, or can perform searches for different months, items and recipes to see when they're in season, as well as information on cooking, growing, and ecological impact.
+
+For more details on what we intend on doing next with _Seasonal_, please refer to our project roadmap!
+
+The front-end for this project can be [found in this linked repository](https://github.com/SchoolOfCode/final-project_front-end-12).
+
+Our team consists of:
+
+- Andy Johnson [@multi-vit](https://github.com/multi-vit)
+- Fiona Kitchen [@fkit00](https://github.com/fkit00)
+- Guiji Darar [@Gdarar](https://github.com/Gdarar)
+- Madison Lowe [@madisonlowe](https://github.com/madisonlowe)
+- Matthew Miller [@codedresser](https://github.com/codedresser)
+- Nathan Lee [@N-LEE-94](https://github.com/N-LEE-94)
+
+If you have any questions, feel free to get in touch! Thanks!
 
 ## Installation
 
@@ -28,9 +43,7 @@ npm i
 
 This will install all the necessary dependencies.
 
-Referring to the `package.json` details, you will notice the following dependencies: dotenv, nodemon, cors, express, pg. TODO: FORMAT AND WORD THIS BETTER.
-
-You will also notice that `type` is set to `module` and that we are using ES6 import and export syntax.
+We are using ES6 import and export syntax.
 
 ## Setting Up Your Environment
 
@@ -44,39 +57,69 @@ Inside the root level, where 'loremipsum' is a variable representing your own cr
 PGURI=loremipsum
 ```
 
-TODO: REWORD SECTION ON DATABASE. For our database, we are linked to Heroku. Nathan is the Data-Lord and has main access to the database and keys on his account for this project.
+## Scripts and Commands
+
+To run the back-end on localhost, run:
+
+```
+npm start
+```
+
+To run our testing suites, run:
+
+```
+npm test
+```
+
+To reset the database, run:
+
+```
+npm run reset
+```
+
+For other useful commands and scripts, please refer to `scripts` in the `package.json` file.
 
 ## Back-End Structure
 
-Our server and our database are both hosted on Heroku, but on different instances.
+We are currently using a relational PostgreSQL database hosted on Heroku, and our back-end is built using Node.js and Express. For testing the back-end, we are currently using Jest and Supertest.
 
-\*\*Server
+### Directory Structure
 
-TODO: WRITE UP ABOUT THESE ONCE THEY'RE FIXED.
+In the back-end repository, our key directories and files are structured as follows:
 
-## File Structure
-
-In the back-end repository, our files are structured as follows:
-
-- db
-  - index.js
+```
+-final-project_back-end-12
+  - db
+    - index.js
+    - data.js
     - scripts
-      - createTable.js (the shape of our database can be found here for reference, creates produce table on database)
-      - deleteTable.js (deletes produce table from database)
-      - populateTable.js (populates produce table on database)
-      - dummyData.js (test data, used to make sure our scripts and database are working)
-      - data.js (all data currently properly capitalised, so remember to make to lower or upper case when querying or displaying)
-- routes
-- app.js
-- index.js
-- .env
-- .gitignore
+      - createTable.js
+      - deleteTable.js
+      - populateTable.js
+  - helper_scripts
+    - randomGet.js
+    - randomGet.test.js
+    - testingdata.js
+  - models
+    - index.js
+    - index.test.js
+  - routes
+    - index.js
+  - app.js
+  - app.test.js
+  - package.json
+  - .env
+  - .gitignore
+  - README.md
+```
 
 ## Data Shape
 
 ### Produce Table
 
-For the produce table, our data on the back-end is provided to the database as an array of objects. Each object represents one food entry, and is formatted as thus:
+For the produce table, our data on the back-end is provided to the database as an array of objects.
+
+Each object represents one food entry, and is formatted as thus:
 
 ```
 {
@@ -95,72 +138,53 @@ An example entry:
 
 ```
 {
-name: "aubergine",
-imageURL: "https://auberginepic.com"
-description: "This is a description of an aubergine. This will be a longer piece of text. It will describe the following things: what the item is, what value it has nutritionally or if there are any allergens, what to make with it, and how to grow it."
-family: "Nightshade"
-foodType: "Berry"
-usedAs: "Vegetable"
-month: ["January", "February"]
-allergens: "None"
+name: "Aubergine",
+imageURL: "https://auberginepic.com",
+description: "This is a description of an aubergine. This will be a longer piece of text. It will describe the following things: what the item is, what value it has nutritionally or if there are any allergens, what to make with it, and how to grow it.",
+family: "Nightshade",
+foodType: "Berry",
+usedAs: "Vegetable",
+month: ["January", "February"],
+allergens: "None",
 }
 ```
 
-A more verbose description of what each key-value pair should contain:
+### Data Content Guides
 
-```
-{
-name: The name of the food item,
-imageURL: A URL for the image or graphic which represents the item,
-description: A description - a few short paragraphs maximum - of the item,
-family: The actual family of the item, eg. nightshade, mollusc,
-usedAs: How a food is used, eg. tomato and aubergine would be “Vegetable” even though they're fruits,
-month: The months it’s in season for,
-allergens: Anything that is an allergen in the item. This value should come from one of the legally classified 14
-}
-```
+For a description of what each key-value pair inside each data object entry should contain, please see below:
 
-### Produce Table: 'Description' Example
+- `name`: The name of the food item.
+- `imageURL`: A URL for the image or graphic which represents the item.
+- `description`: A description - a few short sentences, according to our description content guide - of the item.
+- `family`: The actual family of the item, eg. nightshade, mollusc.
+- `usedAs`: How a food is used, eg. tomato and aubergine would be “Vegetable” even though they're technically fruits.
+- `month`: The months that the item is in season for.
+- `allergens`: Anything that is an allergen in the item.
 
-As a content-guide for how the 'description' segment of each object in our `produce` data should be organised, please see the below:
+As a content guide for how the 'description' segment of each object in our `produce` data should be organised, please see the below:
 
 <blockquote>
 
-**_The first paragraph should be a short description of the item._** Aubergines are a dark purple berry - though they’re functionally used as a vegetable - which are at their cheapest and highest quality in the shops from July to September.
+**_The first part should be a short description of the item._** Aubergines are a dark purple berry - though they’re functionally used as a vegetable - which are at their cheapest and highest quality in the shops from July to September.
 
-**_The second paragraph should mention any allergens or notable nutritional info._** They’re a good source of fibre, and are also low GI, so won’t raise your blood glucose levels. No allergens to aubergine are currently known; they are part of the nightshade family.
+**_The second part should mention any allergens or notable nutritional info._** They’re a good source of fibre, and are also low GI, so won’t raise your blood glucose levels. No allergens to aubergine are currently known; they are part of the nightshade family.
 
-**_The third paragraph should mention, broadly, how to cook with it._** You can grill, fry, griddle, barbecue and bake aubergines. They’re often added to dishes like curries and casseroles. Famous dishes using aubergine include ratatouille and moussaka, and they feature widely in Mediterranean cuisine. They have a mellow flavour that combines well with other ingredients.
+**_The third part should mention, broadly, how to cook with it._** You can grill, fry, griddle, barbecue and bake aubergines. They’re often added to dishes like curries and casseroles. Famous dishes using aubergine include ratatouille and moussaka, and they feature widely in Mediterranean cuisine. They have a mellow flavour that combines well with other ingredients.
 
-**_The fourth paragraph should briefly outline ideal growing conditions._** When grown, they like sunny and warm weather, and do best when grown in a greenhouse in the UK climate.
+**_The fourth part should briefly outline ideal growing conditions._** When grown, they like sunny and warm weather, and do best when grown in a greenhouse in the UK climate.
 
 </blockquote>
 
-## Routes
+If any of this information is not available, feel free to substitute as appropriate with more information in one of the other categories, how to pick good examples of the food, or else ommit the section entirely. It's up to personal discretion, keeping in mind at all times our goal of making information readable and accessible to users, without passing prescriptive health advice or judgements.
 
-Current routes:
+## Roadmap
 
-- "/"
+The stretch goal that we're currently working on is to integrate the recipe arm of our product design. With this stretch goal, users should be able to locate and search for seasonal recipes which match up to different foods in season.
 
-## Models
+Following meeting this stretch goal, our next goal will be to integrate a maps API, to allow users to search for local farms and growers near them.
 
-Current models:
-
-- getAll
-
-## Stretch Goal/ Recipe API
-
-//Andy to fill this part out 
-
-
-## Other
+## Notes for Team Members
 
 Please refer to Trello for all upcoming tickets related to this repository.
 
-For any needed credentials, TODO: add where to find credentials once we've sorted them out.
-
-# NOTES
-
-Our server and our database are both deployed on Heroku, but on different instances.
-
-TODO: Update when database and server are fixed.
+For any needed credentials, contact a member of the team with server and database access.
