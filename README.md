@@ -17,7 +17,7 @@ Our team consists of:
 - Matthew Miller [@codedresser](https://github.com/codedresser)
 - Nathan Lee [@N-LEE-94](https://github.com/N-LEE-94)
 
-If you have any questions, feel free to get in touch!
+If you have any questions, feel free to get in touch! Thanks!
 
 ## Installation
 
