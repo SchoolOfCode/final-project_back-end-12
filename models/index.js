@@ -26,3 +26,22 @@ export async function getByAllergen(allergen) {
   );
   return res.rows;
 }
+export async function getByFamily(family) {
+  let res = await query(`SELECT * FROM produce WHERE lower($1) ILIKE family;`, [
+    family,
+  ]);
+  return res.rows;
+}
+export async function getByFoodType(foodType) {
+  let res = await query(
+    `SELECT * FROM produce WHERE lower($1) ILIKE foodtype;`,
+    [foodType]
+  );
+  return res.rows;
+}
+export async function getByUsedAs(usedAs) {
+  let res = await query(`SELECT * FROM produce WHERE lower($1) ILIKE usedas;`, [
+    usedAs,
+  ]);
+  return res.rows;
+}

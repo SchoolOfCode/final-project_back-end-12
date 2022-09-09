@@ -103,6 +103,81 @@ test("Testing to get by allergens using a query in the produce route", async () 
   );
 });
 
+test("Testing to getByFamily using a query in the produce route", async () => {
+  const response = await request(app)
+    .get("/produce?family=fish")
+    .set("Accept", "application/json");
+  expect(response.status).toEqual(200);
+  expect(response.body).toEqual(
+    expect.objectContaining({
+      success: true,
+      payload: expect.arrayContaining([
+        expect.objectContaining({
+          id: expect.any(Number),
+          name: expect.any(String),
+          imageurl: expect.any(String),
+          description: expect.any(String),
+          family: "Fish",
+          foodtype: expect.any(String),
+          usedas: expect.any(String),
+          month: expect.arrayContaining([expect.any(String)]),
+          allergens: expect.any(String),
+        }),
+      ]),
+    })
+  );
+});
+
+test("Testing to getByFoodType using a query in the produce route", async () => {
+  const response = await request(app)
+    .get("/produce?foodType=herb")
+    .set("Accept", "application/json");
+  expect(response.status).toEqual(200);
+  expect(response.body).toEqual(
+    expect.objectContaining({
+      success: true,
+      payload: expect.arrayContaining([
+        expect.objectContaining({
+          id: expect.any(Number),
+          name: expect.any(String),
+          imageurl: expect.any(String),
+          description: expect.any(String),
+          family: expect.any(String),
+          foodtype: "Herb",
+          usedas: expect.any(String),
+          month: expect.arrayContaining([expect.any(String)]),
+          allergens: expect.any(String),
+        }),
+      ]),
+    })
+  );
+});
+
+test("Testing to getByUsedAs using a query in the produce route", async () => {
+  const response = await request(app)
+    .get("/produce?usedAs=vegetable")
+    .set("Accept", "application/json");
+  expect(response.status).toEqual(200);
+  expect(response.body).toEqual(
+    expect.objectContaining({
+      success: true,
+      payload: expect.arrayContaining([
+        expect.objectContaining({
+          id: expect.any(Number),
+          name: expect.any(String),
+          imageurl: expect.any(String),
+          description: expect.any(String),
+          family: expect.any(String),
+          foodtype: expect.any(String),
+          usedas: "Vegetable",
+          month: expect.arrayContaining([expect.any(String)]),
+          allergens: expect.any(String),
+        }),
+      ]),
+    })
+  );
+});
+
 test("Testing that produce/random returns 5 objects", async () => {
   const response = await request(app)
     .get("/produce/random?month=January")
