@@ -1,5 +1,13 @@
 import { pool } from "../db/index.js";
-import { getAll, getByItem, getByMonth, getByAllergen } from "./index.js";
+import {
+  getAll,
+  getByItem,
+  getByMonth,
+  getByAllergen,
+  getByFamily,
+  getByFoodType,
+  getByUsedAs,
+} from "./index.js";
 import { test, expect, describe } from "@jest/globals";
 
 test("testing the getAll model retrieves all items from the database", async () => {
@@ -75,6 +83,63 @@ test("testing for the get by allergen function to make sure it returns an item e
         usedas: expect.any(String),
         month: expect.any(Array),
         allergens: "Fish",
+      }),
+    ])
+  );
+});
+
+test("testing for the getByFamily function to make sure it returns an item expected ", async () => {
+  const response = await getByFamily("fish");
+  expect(response).toEqual(
+    expect.arrayContaining([
+      expect.objectContaining({
+        id: expect.any(Number),
+        name: expect.any(String),
+        imageurl: expect.any(String),
+        description: expect.any(String),
+        family: "Fish",
+        foodtype: expect.any(String),
+        usedas: expect.any(String),
+        month: expect.any(Array),
+        allergens: expect.any(String),
+      }),
+    ])
+  );
+});
+
+test("testing for the getByFoodType function to make sure it returns an item expected ", async () => {
+  const response = await getByFoodType("herb");
+  expect(response).toEqual(
+    expect.arrayContaining([
+      expect.objectContaining({
+        id: expect.any(Number),
+        name: expect.any(String),
+        imageurl: expect.any(String),
+        description: expect.any(String),
+        family: expect.any(String),
+        foodtype: "Herb",
+        usedas: expect.any(String),
+        month: expect.any(Array),
+        allergens: expect.any(String),
+      }),
+    ])
+  );
+});
+
+test("testing for the getByUsedAs function to make sure it returns an item expected ", async () => {
+  const response = await getByUsedAs("vegetable");
+  expect(response).toEqual(
+    expect.arrayContaining([
+      expect.objectContaining({
+        id: expect.any(Number),
+        name: expect.any(String),
+        imageurl: expect.any(String),
+        description: expect.any(String),
+        family: expect.any(String),
+        foodtype: expect.any(String),
+        usedas: "Vegetable",
+        month: expect.any(Array),
+        allergens: expect.any(String),
       }),
     ])
   );

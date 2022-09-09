@@ -4,6 +4,9 @@ import {
   getByItem,
   getByMonth,
   getByAllergen,
+  getByFamily,
+  getByFoodType,
+  getByUsedAs,
 } from "../models/index.js";
 import { getRandom } from "../helper_scripts/randomGet.js";
 
@@ -20,6 +23,18 @@ router.get("/", async function (req, res) {
   }
   if (req.query.allergen !== undefined) {
     let result = await getByAllergen(req.query.allergen);
+    return res.json({ success: true, payload: result });
+  }
+  if (req.query.family !== undefined) {
+    let result = await getByFamily(req.query.family);
+    return res.json({ success: true, payload: result });
+  }
+  if (req.query.foodType !== undefined) {
+    let result = await getByFoodType(req.query.foodType);
+    return res.json({ success: true, payload: result });
+  }
+  if (req.query.usedAs !== undefined) {
+    let result = await getByUsedAs(req.query.usedAs);
     return res.json({ success: true, payload: result });
   }
   let result = await getAll();
