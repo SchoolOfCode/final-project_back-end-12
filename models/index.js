@@ -19,3 +19,10 @@ export async function getByMonth(month) {
   );
   return res.rows;
 }
+export async function getByAllergen(allergen) {
+  let res = await query(
+    `SELECT * FROM produce WHERE lower($1) ILIKE allergens;`,
+    [allergen]
+  );
+  return res.rows;
+}

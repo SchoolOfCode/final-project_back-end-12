@@ -1,5 +1,10 @@
 import express from "express";
-import { getAll, getByItem, getByMonth } from "../models/index.js";
+import {
+  getAll,
+  getByItem,
+  getByMonth,
+  getByAllergen,
+} from "../models/index.js";
 import { getRandom } from "../helper_scripts/randomGet.js";
 
 export const router = express.Router();
@@ -11,6 +16,10 @@ router.get("/", async function (req, res) {
   }
   if (req.query.month !== undefined) {
     let result = await getByMonth(req.query.month);
+    return res.json({ success: true, payload: result });
+  }
+  if (req.query.allergen !== undefined) {
+    let result = await getByAllergen(req.query.allergen);
     return res.json({ success: true, payload: result });
   }
   let result = await getAll();
@@ -28,6 +37,5 @@ router.get("/random", async function (req, res) {
     payload: "Sorry, no random food for you today",
   });
 });
-
 
 export default router;
