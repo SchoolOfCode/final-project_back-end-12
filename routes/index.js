@@ -49,7 +49,7 @@ router.get("/random", async function (req, res) {
   }
   return res.json({
     success: false,
-    payload: "Sorry, no random food for you today",
+    payload: "Sorry, no random food for you today.",
   });
 });
 
