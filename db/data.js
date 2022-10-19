@@ -40,7 +40,7 @@ const produce = [
   {
     foodName: "Asparagus",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/001-asparagus_zq5nng.png",
     description:
       "Asparagus take a lot of work to grow, and are considered a vegetable delicacy, which is generally reflected in their price tag. They have a distinct savoury flavour. While British and American varieties are green, French asparagus is purple, and Spanish and Dutch asparagus are generally white, due to the different growing processes. All varieties of asparagus have high levels of vitamins A and C, as well as potassium, iron and calcium. You can import asparagus year round, but British asparagus is available from May through July. When buying asparagus, look for tightly packed, pert tips, and straight, firm shoots. When cooking, the only preparation that asparagus needs is washing. For the larger and more flavourful spears of asparagus, you can cut or snap away the woody ends before cooking. You can also pare down the end of the asparagus if needed, to reveal more tender flesh beneath. Boil or steam asparagus for up to five minutes, or grill with oil and seasalt. Asparagus is easy to grow, but new plants need a few years to establish themselves, and also need to be planted in the ground rather than in pots, so you will need patience to grow them.",
     family: "Asparagus",
@@ -158,7 +158,7 @@ const produce = [
   {
     foodName: "Blackcurrants",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/002-blackcurrant_vnquni.png",
     description:
       "Blackcurrants are a tart, dark-coloured berry that are at their peak in early to mid-summer. Recent research has suggested that berries - like blackcurrants - can help to prevent the onset of Alzheimers disease. Blackcurrants are also high in vitamin C. When looking for blackcurrants, make sure to pick ones with shiny and unblemished skins that are firm and plump. Blackcurrants will keep for several days in the fridge, and can also be frozen. They can be added raw to fruit salads, or otherwise can be cooked in some sugared water to sweeten them a little. Be careful not to overcook them, or they will lose their flavour. Blackcurrants are great turned into jams, juices and jellies, or when added to crumbles, tarts and other desserts like ice cream. Blackcurrants are fairly easy to grow, and prefer moist to well-drained soil. They thrive in full sun to partial shade, and can be grown in containers too - so long as you have one big enough!",
     family: "example",
@@ -170,7 +170,7 @@ const produce = [
   {
     foodName: "Bramley Apple",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/003-apple_yzjgbk.png",
     description:
       "Bramley apples are a large, green cooking apple, which are available year round, but are at their height from December through until March. They can be eaten uncooked, but their taste will be very different, so this is not advisable. Like most apples, bramley apples are high in fibre, vitamins and antioxidants. Make sure to select bramley apples which are unblemished and firm. They can be boiled or stewed in a variety of recipes to make sauces and desserts. An alternative in recipes could be other varieties of apples, or pears. Bramley apple trees are naturally quite resistant to disease, very productive, and fairly easy to grow, suiting the British climate. Apples are one of the easiest fruit trees to grow, and tend to be popular with a lot of home gardeners because of this.",
     family: "Ribes",
@@ -206,9 +206,9 @@ const produce = [
   {
     foodName: "Brussels Sprouts",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175318/Seasonal/004-brussels-sprouts_zlkp8m.png",
     description:
-      "Brussels sprouts are a small, green vegetable which are related to cabbages. Their taste is generally sweet and nutty, though occasionally bitter. They grow on stalks, which they are sometimes also sold on, and can be a divisive vegetable! Look for sprouts with plump, bright green heads. The ones still on their stalks will stay fresher for longer, and an alternative to sprouts can be cabbage. Sprouts can be eaten raw in salads. More commonly, however, they’re cooked and eaten as a seasonal side in colder months. If boiling sprouts, you can cut bigger ones in half or score the bases of medium-sized ones to make sure they cook evenly throughout, though this is not necessary for smaller sprouts. You can also stir fry them, and they can go nicely if cooked with cubed bacon or ham. Sprouts cook quite quickly, so make sure you check on them regularly to avoid them being overcooked and losing their taste. Sprouts are quite slow growing, and will take most of the year to grow. However, they crop from autumn through until spring.",
+      "Brussels sprouts are a small, green vegetable which are related to cabbages. Their taste is generally sweet and nutty, though occasionally bitter. They grow on stalks, which they are sometimes also sold on, and can be a divisive vegetable! Look for sprouts with plump, bright green heads. The ones still on their stalks will stay fresher for longer, and an alternative to sprouts can be cabbage. Sprouts can be eaten raw in salads. More commonly, however, they are cooked and eaten as a seasonal side in colder months. If boiling sprouts, you can cut bigger ones in half or score the bases of medium-sized ones to make sure they cook evenly throughout, though this is not necessary for smaller sprouts. You can also stir fry them, and they can go nicely if cooked with cubed bacon or ham. Sprouts cook quite quickly, so make sure you check on them regularly to avoid them being overcooked and losing their taste. Sprouts are quite slow growing, and will take most of the year to grow. However, they crop from autumn through until spring.",
     family: "Cabbage",
     foodType: "Leaf",
     usedAs: "Vegetable",
@@ -255,7 +255,7 @@ const produce = [
   {
     foodName: "Cauliflower",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/005-cauliflower_pkwdkp.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -279,7 +279,7 @@ const produce = [
   {
     foodName: "Celeriac",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175322/Seasonal/037-celery-root_jklewc.png",
     description:
       "A firm, oddly-shaped, pale vegetable, with a taste somewhat similar to celery. Celeriac is usually enjoyed mashed like potatoes or roasted, though it is a root vegetable which is agreeable to a lot of different winter dishes. When choosing a celeriac, avoid any which look discoloured or which are not fully firm. Alternatives to celeriac include butternut squash, turnips and swede. Celeriac discolours quickly once peeled, so make sure to store any leftovers in a bowl of lemon water, or acidulated water. Celeriac oven chips, remoulade, and cheesy celeriac mash are some great ways to use this vegetable. Celeriac are not too difficult to grow, but they do take a very long time to mature, and need a bit of space.",
     family: "Parsley",
@@ -320,7 +320,7 @@ const produce = [
   {
     foodName: "Cherry",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/006-cherries_hkayof.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -344,7 +344,7 @@ const produce = [
   {
     foodName: "Chestnut",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/007-chestnut_g2wdsp.png",
     description:
       "Chestnuts are a shiny, dark brown nut, famously associated with autumn and winter. Comforting and crumbly, they should not be eaten raw, so make sure you roast chestnuts before consuming them. Like all nuts, chestnuts are rich in antioxidants, high in fats, and support gut and heart health, though tree nut allergies are the most common type of allergy, and reactions can be severe, so nuts should be handled and prepared with care to avoid cross-contamination. When cooking chestnuts, make sure to rinse them thoroughly before piercing the skin to allow trapped air to escape while they roast. Chestnuts can be added to stuffing, mash, soups, and other recipes, and an alternative could be hazelnut. Chestnut trees can take years to grow, but can crop within five years, so they are not impossible to cultivate.",
     family: "Beech",
@@ -356,7 +356,7 @@ const produce = [
   {
     foodName: "Chicory",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/008-chicory_dxp4o2.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Daisy",
@@ -368,7 +368,7 @@ const produce = [
   {
     foodName: "Clementine",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/021-orange_oafni2.png",
     description:
       "Clementines are a small and sweet citrus fruit which are characterised by their loose and easily-peeled skin. They are in season in the winter, from November through February, though alternatives which may be available in other seasons include oranges, satsumas and mandarins. The outside appearance of the skin of clementines does not indicate quality, so look for fruits which feel heavy, as they will be juicier. Clementines are usually eaten on their own, and are best eaten immediately after being peeled, though segments can also be dipped into melted chocolate. Clementines, like most citrus plants, are not hardy in the UK and do not grow well in our climate, though they can be cultivated in pots in sunnier spots and brought inside over winter.",
     family: "Citrus",
@@ -380,7 +380,7 @@ const produce = [
   {
     foodName: "Cod",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637887/Seasonal/027-halibut_wagn5i.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Fish",
@@ -449,7 +449,7 @@ const produce = [
   {
     foodName: "Cranberry",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/011-cranberry_h8ovbv.png",
     description:
       "Cranberries are tart, red berries which are most famously used in winter recipes. They are naturally high in a wide range of vitamins and minerals, and can contribute powerfully to a varied and balanced diet. At their best between October and December, cranberries can be used in a wide variety of dishes, such as in making sauces, desserts, to dress meats, and in drinks. Look for plump, firm, bright berries when you’re shopping for fresh cranberries. You can also buy them dried! Cranberries can be grown at home in the UK, whether in pots or as ground shrubs, though they do also grow wild throughout North Europe and North America. ",
     family: "Heath",
@@ -461,7 +461,7 @@ const produce = [
   {
     foodName: "Damson",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/038-plum-1_btgcjd.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -473,7 +473,7 @@ const produce = [
   {
     foodName: "Date",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/012-date-palm_sdx44r.png",
     description:
       "Dates are one of the oldest cultivated fruits, can be bought dried or fresh, and are sweet, rich and chewy. There are a lot of different varieties of date, which are usually grown in warmer climates like North Africa and the Middle East, but only some of them are exported to the UK. Fresh dates are at their best in winter, around November to January. Whether fresh or dried, dates should look plump and glossy. Dried dates will be ready to eat straight away, but fresh dates may need some further preparation. The UK does not have naturally high enough temperatures to be able to allow date plants to flourish.",
     family: "Palm",
@@ -485,7 +485,7 @@ const produce = [
   {
     foodName: "Duck",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/013-duck_av61dl.png",
     description:
       "Duck meat is dark, rich and flavourful when compared against other meats like chicken. Farmed duck is available all year round, but wild duck is available from October through December. Duck meat is nutritious, with high levels of protein, vitamins, and minerals like zinc and iron. It also has a comparatively high fat content, but fat can be trimmed by removing the skin and the fat layer below it, prior to cooking. Duck is popular in several cuisines, and is often paired with fruits like oranges, cranberries and raspberries. Duck is often roasted, though it can be fried, grilled, and cooked in a variety of other ways. It can also be marinated and smoked, and marinating especially can help with wild duck, which can sometimes be dry. When selecting duck, make sure to look for clear, soft, unblemished skin and flesh.",
     family: "Meat",
@@ -557,7 +557,7 @@ const produce = [
   {
     foodName: "Goose",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/014-goose_nbtpy1.png",
     description:
       "Goose meat is succulent and rich, and the bird is often used as an alternative to turkey for Christmas meals. Goose has a high fat content, but most of this is contained in the skin, which can be rendered at home to make fat for roasting and frying. Goose is in season from September through January, though you should also be able to find frozen goose all year round. Goose is often roasted, and is commonly served with sharper-flavoured fruit sauces, like apple, cranberry or cherry. When buying goose, look for a bird with a good layer of fat, and plump and unblemished skin.",
     family: "Meat",
@@ -581,7 +581,7 @@ const produce = [
   {
     foodName: "Grapefruit",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/015-grapefruit_ohykt5.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Citrus",
@@ -605,7 +605,7 @@ const produce = [
   {
     foodName: "Guinea Fowl",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/016-fowl_ac08xk.png",
     description:
       "A small domesticated bird, which is a little bit gamier in taste than chicken. Guinea fowl originate from Africa, though can be found across Europe. They are at their best in the autumn months, between September and November. Guinea fowl has a lower fat content and a higher fat content than chicken. As guinea fowl is drier than chicken naturally, it can dry out while cooking, so take precautions not to overcook the bird. Wrapping guinea fowl with pancetta can prevent it from drying out, as can marinating it. Guinea fowl is a great option for roasting with stuffing.",
     family: "Meat",
@@ -629,7 +629,7 @@ const produce = [
   {
     foodName: "Jerusalem Artichoke",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/039-ginger_hevlfq.png",
     description:
       "Jerusalem artichokes are not true artichokes, but are actually a member of the sunflower family! They are a root vegetable with a crunchy texture and nutty flavour, and resemble ginger. The name does not come from the location of Jerusalem, but instead from the Italian word for sunflower, which is girasole. Jerusalem artichokes can be cooked in much the same way as potatoes or parsnips. Their flesh will discolour if exposed to air, so make sure to keep any leftovers which have been peeled in bowls of acidulated water. Their skins should be light brown, firm and fresh, without any soft or dark patches. The plants are easy to grow, and can be grown from tubers in the spring.",
     family: "Daisy",
@@ -722,7 +722,7 @@ const produce = [
   {
     foodName: "Leek",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/018-leek_dnkjyf.png",
     description:
       "Leeks are a vegetable in the same family as onions, garlic and chives. The edible part of the plant is a long, stalk-shaped, tightly-packed sheathe of leaves, which is white-green in colour. Leeks are high in nutrients, especially magnesium, and vitamins A, C and K. When buying leeks, look for vegetables with unblemished and firm bases, and bright, crisp green leaves. They are a versatile vegetable, which can be used in much the same way as onions and other alliums in recipes. They make for a great addition to recipes like casseroles, pies, and soups, or alongside fish like salmon, and can be steamed and stir fried. Leeks are fairly easy to grow, and can be grown in containers, but they do take some time and attention to mature. Sown in spring, they can be harvested around autumn and winter.",
     family: "Amaryllis",
@@ -742,7 +742,7 @@ const produce = [
   {
     foodName: "Lemon",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/019-lemon_vk7cd1.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Citrus",
@@ -835,7 +835,7 @@ const produce = [
   {
     foodName: "Mussels",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/020-mussel_jwayyc.png",
     description:
       "Mussels are a small shellfish. Similar to oysters, mussels sold in supermarkets and fishmongers are farmed, as care must be taken regarding what they feed on while growing. Fresh mussels are at their height from autumn through spring, though they can be bought frozen, smoked, or bottled year-round. They are a strong source of protein, iron, zinc, selenium, iodine, and omega 3 fatty acids. Alternatives to mussels could include oysters, clams or cockles. Mussels are highly perishable, and should be eaten on the day they are bought. Avoid buying any mussels with chipped or damaged shells. Fresh mussels tend to be tightly closed. Mussels can be used in pastas and soups, and can also be served as a main alongside vegetables.",
     family: "Fish",
@@ -859,7 +859,7 @@ const produce = [
   {
     foodName: "New Potatoes",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/026-potato_tent9c.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Nightshade",
@@ -896,7 +896,7 @@ const produce = [
   {
     foodName: "Orange",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/021-orange_oafni2.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Citrus",
@@ -908,7 +908,7 @@ const produce = [
   {
     foodName: "Oyster",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/022-oyster_njpa8x.png",
     description:
       "Oysters are considered a luxury food globally for their succulent and delicate flesh and flavouring. There are various kinds of oysters, including natives, Pacific, and rock oysters. Oysters should be eaten from September through April, as during the summer months, oysters are spawning, and their flesh becomes unpleasantly soft. Rock oysters are available year round, however. Live, just-opened oysters have the best flavour, and oysters are often served live and raw on ice with lemon. Shucked - or opened - oysters should be eaten on the day they are opened. Fresh oysters can otherwise be kept in the fridge for up to three days. Rock oysters are cheaper and larger, and are considered better for cooking for this reason. Oysters can be cooked into pies, wrapped with bacon and roasted, or pan fried for a few minutes for serving in other meals.",
     family: "Fish",
@@ -954,7 +954,7 @@ const produce = [
   {
     foodName: "Parsnip",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/023-parsnip_zo8cbr.png",
     description:
       "Parsnips are a pale root vegetable which are a member of the carrot family - which you might guess from the shape! They are commonly mashed or roasted. They have an earthy, sweet and gentle flavour. They suit lots of winter recipes like roasts, soups and stews. Alternatives to parsnips in recipes can include carrot or turnip. Young or smaller parsnips do not need peeling before cooking, just make sure to scrub them clean thoroughly. For bigger or older parsnips, peel them thinly before roasting or boiling. Look for firm, non-shrivelled parsnips, and avoid ones with brown patches or bruises. Parsnips are fairly easy to grow and require little maintenance, and can be left in the ground until you are ready to use them. If sown in spring, your parsnips should be ready by autumn.",
     family: "Parsley",
@@ -986,7 +986,7 @@ const produce = [
   {
     foodName: "Pear",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/024-pear_rbtu1o.png",
     description:
       "Pears are a sweet fruit which are wider at the bottom than the top. There are thousands of varieties, only some of which are sold in the UK. Their flesh is fine, granular, and much more fragile than that of apples, and generally, their taste improves after they have been picked. Pears are delicate and bruise easily, so try to buy firm - but not hard - fruits, so that they can ripen a little at home. Avoid buying pears which look very bruised or mushy. The many varieties of pears also have some variance in flavour. Conference pears are the more commonly-seen pear on sale in the UK. Pears can be eaten raw, but they can also be stuffed and cooked, or peeled and chopped to be added into pies or made into sauces and dressings. Pears can grow in the UK, but should be planted in areas avoiding frost pockets, and it can take them several years to mature and start producing fruit.",
     family: "Rose",
@@ -1041,7 +1041,7 @@ const produce = [
   {
     foodName: "Plum",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/025-plum_lsppvy.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Rose",
@@ -1103,7 +1103,7 @@ const produce = [
   {
     foodName: "Potato",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/026-potato_tent9c.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Nightshade",
@@ -1115,7 +1115,7 @@ const produce = [
   {
     foodName: "Pumpkin",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/027-pumpkin_djp1qo.png",
     description:
       "Pumpkins are an iconic squash, traditionally orange and associated with Halloween and autumn, though they come in various colours and sizes. They are a strong source of fibre, vitamins and minerals, and are in season from October through December. Pumpkins can be tricky to work with, and it can be helpful to cut them into sections to divest them of their flesh for cooking. Make sure to scoop out strings and seeds, and cut the pumpkin into wedges or chunks as required. Pumpkin can be boiled or roasted, and used as mash, in savoury meals, or in sweet desserts like pumpkin pies. Pumpkins grow comparatively quickly, and are not too hard to care for, though they will need a bit of space.",
     family: "Cucurbita",
@@ -1127,7 +1127,7 @@ const produce = [
   {
     foodName: "Purple Sprouting Broccoli",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/040-broccoli_n360kh.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -1139,7 +1139,7 @@ const produce = [
   {
     foodName: "Quince",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/028-quince_l6gzts.png",
     description:
       "Quince is a fruit with a smooth, golden skin, which grows in both apple and pear-shaped varieties. They have a hard and bitter flesh, which means they are largely used in cooking, rather than being eaten raw. When cooked, the flesh turns a deep pink colour. They contain high levels of pectin, which makes them a really good contender for jellies, jams, chutneys, and other kinds of preserves. They also suit tarts and pies. Look for quinces with firm and unblemished skins, and try to avoid downy skins on quinces, as this means they are unripe. Quince trees are very adaptable, tolerate a variety of soils, and are hardy in the UK climate, meaning they can be grown here without any special care.",
     family: "Rose",
@@ -1212,7 +1212,7 @@ const produce = [
   {
     foodName: "Rhubarb",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/029-rhubarb_syyom4.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Buckwheat",
@@ -1248,7 +1248,7 @@ const produce = [
   {
     foodName: "Salsify",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175321/Seasonal/023-parsnip_zo8cbr.png",
     description:
       "Salsify is a root vegetable from the dandelion family, and looks like a long, thin parsnip, with cream-coloured flesh and thick skin. When buying salsify, look for firm vegetables with the green tops still attached. To prepare, scrub the root under cold water to make sure that it is clean. Then, peel, and keep the peeled pieces of salsify in a bowl of water with a bit of lemon juice. Like most root vegetables, salsify can be mashed, roasted and boiled, and used in recipes like soups and stews, and when cooked, it has a similar flavour to oysters. Salsify requires a good soil depth and germination can be hit and miss. However, once germinated, salsify grows easier than carrots and parsnips do.",
     family: "Daisy",
@@ -1296,7 +1296,7 @@ const produce = [
   {
     foodName: "Spring Greens",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/042-salad_l7a7te.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Cabbage",
@@ -1357,7 +1357,7 @@ const produce = [
   {
     foodName: "Swede",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175322/Seasonal/034-turnip_ftdzdb.png",
     description:
       "Swede - which is also known as rutabaga or neeps - is a root vegetable which is often confused with turnip. Swede is round in shape, and has a purple-green skin, with yellow flesh. They can be quite difficult to cut through, but tend to disintegrate if overcooked, so be mindful of cooking times when using swede in recipes. Smaller swedes tend to be a little more tender and sweeter in flavour. To use swede, peel it like you would a potato, and then chunk it for roasting or boiling. As a root vegetable, it can be used in mash, boiled or roasted, and in the place of other root vegetables in recipes like pies and stews. Swedes are a crop which can take a long time to mature, up to half a year. They are very hardy, however, and do well in cool and damp climates.",
     family: "Cabbage",
@@ -1369,7 +1369,7 @@ const produce = [
   {
     foodName: "Sweet Potato",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175322/Seasonal/031-sweet-potato_migp92.png",
     description:
       "Sweet potatoes are tubers with bright orange flesh. When cooked, they have a creamy, buttery texture which is sweet, as their name suggests, though they are sometimes known as yams in the United States. They are rich in fibre and vitamins, and can act as a more nutritional alternative to regular potatoes, though care should be taken when cooking, as sweet potatoes are much more tender than regular potatoes once cooked. Traditionally, sweet potatoes can be boiled, mashed, roasted, and turned into fries, though they are also great added to dishes like curries. Look for unblemished skins and firm tubers when shopping, and alternatives you could consider include potatoes or pumpkins. Sweet potatoes do best when grown under covers, like in a greenhouse or a polytunnel, as they are native to the subtropical Americas, and require warm, sheltered and sunny growing conditions to thrive.",
     family: "Morning Glory",
@@ -1381,7 +1381,7 @@ const produce = [
   {
     foodName: "Sweetcorn",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175322/Seasonal/032-corn_sjtrrl.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Grass",
@@ -1441,7 +1441,7 @@ const produce = [
   {
     foodName: "Turkey",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175322/Seasonal/033-turkey_ars9id.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat euismod augue, ac fringilla diam pharetra id. In porttitor convallis nisi vel finibus. Pellentesque at diam venenatis, ornare mi eget, vestibulum arcu. Vivamus consectetur, erat eu semper dapibus, dolor sem suscipit mi, ut dignissim enim nibh vel risus. Sed aliquet, sapien eu congue gravida, lorem metus bibendum mauris, quis maximus nibh erat eu erat. Cras vulputate purus magna, tincidunt porttitor massa vestibulum sed. Nam turpis massa, dictum eu accumsan in, posuere sit amet lorem. Phasellus est sapien, faucibus eget elit et, blandit consequat ex. Proin feugiat arcu a magna iaculis, nec pharetra orci porta. Proin vel orci ante. Aliquam viverra non ligula nec rhoncus. Ut et tincidunt elit. Phasellus non risus in mi vulputate venenatis vitae quis enim. Vestibulum quis dolor venenatis, lobortis diam in, faucibus turpis. Nullam quis pharetra nulla, vestibulum tincidunt ipsum. Donec non ultrices ligula. Quisque at interdum velit. Donec laoreet elit enim, a vulputate risus cursus eu. Duis et est in mi pulvinar rhoncus in ut lorem. Integer nec dolor et velit sollicitudin vehicula. Duis sapien justo, condimentum nec orci eu, dictum dapibus nisl. Praesent ultricies libero vel leo pulvinar molestie.",
     family: "Meat",
@@ -1453,7 +1453,7 @@ const produce = [
   {
     foodName: "Turnip",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175322/Seasonal/035-turnip-1_qclhjc.png",
     description:
       "Turnips are white root vegetables, though at the tops where they have been exposed to sunlight while growing, they will often have bursts of red, purple or green colouring on their skin. They are a good source of vitamin C and as a root vegetable, have many robust uses and applications in cooking. Turnips can be purchased year round, though baby turnips are in season in June and July, and peak season is October through February. Look for firm, heavy vegetables when purchasing. The smaller and younger the turnip, the more tender the vegetable, and sweeter its flavour. As a root vegetable, turnips can be mashed, roasted, boiled, and used in a variety of recipes where you would use root vegetables. An alternative to turnips could be swede. Turnips are quick and fairly easy to grow from seed, and should be ready within a few weeks. They can be grown in containers outdoors, and so are a good option for gardeners with a variety of spaces available to them.",
     family: "Cabbage",
@@ -1465,7 +1465,7 @@ const produce = [
   {
     foodName: "Venison",
     imageURL:
-      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637899/Seasonal/057-organic-food_pikcaf.png",
+      "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175322/Seasonal/036-deer_nccggr.png",
     description:
       "In Britain today, venison specifically refers to deer meat, though in other countries and historically, it could refer to game from any furred animal, or animals like elk and reindeer. It is a dark, lean and tender meat, and age does affect the meat: the younger the animal, the more tender its meat. Additional factors like diet, and how the animal was raised and how it was handled after it was killed, can all affect its meat. Farmed venison is available year round, as is wild roe deer. Wild red and fallow deer are only in season from late October through mid-February, however. Cuts of venison should be chosen according to how you want to cook it, as different cuts from different parts of the animal will have different qualities that will better suit roasting, grilling, barbecuing, or stewing processes, and so on. The market for venison is steadily growing as consumers seek alternatives to traditionally farmed animals like chicken and cows. As deer have only been farmed in the past few decades, and are not domesticated animals, the farming process for many suppliers tends to be less intense and free range. However, increases to scale farming to match demand will not necessarily scale sustainability, as the energy demands of intensive meat farming remain regardless of the meat which is being farmed.",
     family: "Meat",
