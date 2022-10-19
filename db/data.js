@@ -1,10 +1,3 @@
-/* Data drawn from https://www.bbcgoodfood.com/seasonal-calendar. If we want to make this a releasable API at some point in the future, will probably be worth making the data more comprehensive, but this'll do for now. */
-
-/*
-TODO: ADD DESCRIPTIONS FOR ITEMS WE WANT TO SHOW IN THE APP DEMO.
-TODO: ADD EASTER EGG LISTINGS.
-*/
-
 const produce = [
   {
     foodName: "Apple",
