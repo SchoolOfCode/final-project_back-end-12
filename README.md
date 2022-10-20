@@ -81,7 +81,7 @@ For other useful commands and scripts, please refer to `scripts` in the `package
 
 ## Back-End Structure
 
-We are currently using a relational PostgreSQL database hosted on Heroku, and our back-end is built using Node.js and Express. For testing the back-end, we are currently using Jest and Supertest.
+We are currently using a relational PostgreSQL database hosted on Cyclic, and our back-end is built using Node.js and Express. For testing the back-end, we are currently using Jest and Supertest.
 
 ### Directory Structure
 

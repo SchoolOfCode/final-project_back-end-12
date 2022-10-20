@@ -1,5 +1,4 @@
-// this function returns five random objects with no duplicates 
-
+// Returns five random items with no duplicates.
 
 export function getRandom(allResults) {
   let randomResults = [];
@@ -22,4 +21,4 @@ export function getRandom(allResults) {
     }
     return randomResults;
   }
-};
+}
