@@ -315,7 +315,7 @@ const produce = [
     imageURL:
       "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175319/Seasonal/006-cherries_hkayof.png",
     description:
-      "Cherries are a small, generally red fruit, which is at its height in the summer. There are hundreds of varieties, which can be sweet, sour, or somewhere between. Sweeter cherries are suitable for eating raw, and the more sour ones are generally used for cooking in things like tarts, crumbles, sauces and other desserts. When shopping for cherries, look for fruits with a deep colouring and firm flesh, but make sure that they are not too hard. Cherries can be grown in the UK climate, and are also suitable to be grown in containers. Traditionally, you would need more than one cherry tree in order for them to pollinate and bear fruit, but newer varieties of cherry trees are often self-pollinating.",
+      "Cherries are a small, generally red fruit, which are at their height in the summer. There are hundreds of varieties, which can be sweet, sour, or somewhere between. Sweeter cherries are suitable for eating raw, and the more sour ones are generally used for cooking in things like tarts, crumbles, sauces and other desserts. When shopping for cherries, look for fruits with a deep colouring and firm flesh, but make sure that they are not too hard. Cherries can be grown in the UK climate, and are also suitable to be grown in containers. Traditionally, you would need more than one cherry tree in order for them to pollinate and bear fruit, but newer varieties of cherry trees are often self-pollinating.",
     family: "Rose",
     foodType: "Berry",
     usedAs: "Fruit",
