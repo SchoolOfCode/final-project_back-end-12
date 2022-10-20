@@ -600,7 +600,7 @@ const produce = [
     imageURL:
       "https://res.cloudinary.com/dvpop7e9w/image/upload/v1666175320/Seasonal/016-fowl_ac08xk.png",
     description:
-      "A small domesticated bird, which is a little bit gamier in taste than chicken. Guinea fowl originate from Africa, though can be found across Europe. They are at their best in the autumn months, between September and November. Guinea fowl has a lower fat content and a higher fat content than chicken. As guinea fowl is drier than chicken naturally, it can dry out while cooking, so take precautions not to overcook the bird. Wrapping guinea fowl with pancetta can prevent it from drying out, as can marinating it. Guinea fowl is a great option for roasting with stuffing.",
+      "A small domesticated bird, which is a little bit gamier in taste than chicken. Guinea fowl originate from Africa, though can be found across Europe. They are at their best in the autumn months, between September and November. Guinea fowl has a lower fat content than chicken. As guinea fowl is drier than chicken naturally, it can dry out while cooking, so take precautions not to overcook the bird. Wrapping guinea fowl with pancetta can prevent it from drying out, as can marinating it. Guinea fowl is a great option for roasting with stuffing.",
     family: "Meat",
     foodType: "Fowl",
     usedAs: "Meat",
