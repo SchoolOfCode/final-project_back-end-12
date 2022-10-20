@@ -636,7 +636,7 @@ const produce = [
     imageURL:
       "https://res.cloudinary.com/dvpop7e9w/image/upload/v1659637881/Seasonal/009-kale_wuhokp.png",
     description:
-      "Kale is a dark green leafy vegetable, and is a member of the cabbage family. It comes in two varieties: regular kale, which has smooth leaves, and curly kale, which has crinkly leaves, and is the more common of the two varieties. Kale is very high in a lot of minerals and vitamins, and is a nutritious vegetable which can contribute strongly to a varied and balanced diet. Kale is usually enjoyed boiled or steamed, as the leaves can be somewhat disagreeable and bitter in flavour if eaten raw. However, kale can also be sliced and added to stir fries, soups and risottos, or wilted in a pan and used as a side dish. Cold-hardy and resilient, kale is a great option for growing at home in the UK climate. ",
+      "Kale is a dark green leafy vegetable, and is a member of the cabbage family. It comes in two varieties: regular kale, which has smooth leaves, and curly kale, which has crinkly leaves, and is the more common of the two varieties. Kale is very high in a lot of minerals and vitamins, and is a nutritious vegetable which can contribute strongly to a varied and balanced diet. Kale is usually enjoyed boiled or steamed, as the leaves can be somewhat disagreeable and bitter in flavour if eaten raw. However, kale can also be sliced and added to stir fries, soups and risottos, or wilted in a pan and used as a side dish. Cold-hardy and resilient, kale is a great option for growing at home in the UK climate.",
     family: "Cabbage",
     foodType: "Cruciferous",
     usedAs: "Vegetable",
