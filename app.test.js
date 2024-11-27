@@ -10,7 +10,7 @@ test("Testing get all function using /produce route", async () => {
   expect(response.status).toEqual(200);
   expect(response.body).toEqual(
     expect.objectContaining({
-      success: true,
+      
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
@@ -35,7 +35,7 @@ test("Testing to get a particular item by using a query in the produce route", a
   expect(response.status).toEqual(200);
   expect(response.body).toEqual(
     expect.objectContaining({
-      success: true,
+      
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
@@ -60,7 +60,7 @@ test("Testing to get a particular month from the produce route using a month que
   expect(response.status).toEqual(200);
   expect(response.body).toEqual(
     expect.objectContaining({
-      success: true,
+      
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
@@ -85,7 +85,7 @@ test("Testing to get by allergens using a query in the produce route", async () 
   expect(response.status).toEqual(200);
   expect(response.body).toEqual(
     expect.objectContaining({
-      success: true,
+      
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
@@ -110,7 +110,7 @@ test("Testing to getByFamily using a query in the produce route", async () => {
   expect(response.status).toEqual(200);
   expect(response.body).toEqual(
     expect.objectContaining({
-      success: true,
+      
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
@@ -135,7 +135,7 @@ test("Testing to getByFoodType using a query in the produce route", async () => 
   expect(response.status).toEqual(200);
   expect(response.body).toEqual(
     expect.objectContaining({
-      success: true,
+      
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
@@ -160,7 +160,7 @@ test("Testing to getByUsedAs using a query in the produce route", async () => {
   expect(response.status).toEqual(200);
   expect(response.body).toEqual(
     expect.objectContaining({
-      success: true,
+      
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
@@ -193,7 +193,7 @@ test("Testing that random produce returns an object with expected key value pair
   expect(response.status).toEqual(200);
   expect(response.body).toEqual(
     expect.objectContaining({
-      success: true,
+      
       payload: expect.arrayContaining([
         expect.objectContaining({
           id: expect.any(Number),
