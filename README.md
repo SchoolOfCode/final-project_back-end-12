@@ -81,7 +81,7 @@ For other useful commands and scripts, please refer to `scripts` in the `package
 
 ## Back-End Structure
 
-We are currently using a relational PostgreSQL database hosted on Cyclic, and our back-end is built using Node.js and Express. For testing the back-end, we are currently using Jest and Supertest.
+We are currently using a relational PostgreSQL database hosted on ~~Cyclic~~ Supabase, and our back-end is built using Node.js and Express, hosted on Lade. For testing the back-end, we are currently using Jest and Supertest.
 
 ### Directory Structure
 
@@ -175,7 +175,7 @@ As a content guide for how the 'description' segment of each object in our `prod
 
 </blockquote>
 
-If any of this information is not available, feel free to substitute as appropriate with more information in one of the other categories, how to pick good examples of the food, or else ommit the section entirely. It's up to personal discretion, keeping in mind at all times our goal of making information readable and accessible to users, without passing prescriptive health advice or judgements.
+If any of this information is not available, feel free to substitute as appropriate with more information in one of the other categories, how to pick good examples of the food, or else omit the section entirely. It's up to personal discretion, keeping in mind at all times our goal of making information readable and accessible to users, without passing prescriptive health advice or judgements.
 
 ## Roadmap
 
